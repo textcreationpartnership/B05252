@@ -1,0 +1,1160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laws and acts past in the second [i.e. third] session of the first Parliament, of our most high and dread soveraign, Charles the second, by the grace of God, King of Scotland, England, France and Ireland, defender of the faith. Holden at Edinburgh, from the eighteenth of June, 1663. to the ninth of October thereafter, on which day the Parliament was dissolved; by a noble lord, John Earl of Rothes, Lord Lefly and Bambreith ... / with special advice and consent of the Estates of Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05252</idno>
+            <idno type="STC">Wing S1273A</idno>
+            <idno type="STC">ESTC R183990</idno>
+            <idno type="EEBO-CITATION">47012639</idno>
+            <idno type="OCLC">ocm 47012639</idno>
+            <idno type="VID">174604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174604)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2692:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laws and acts past in the second [i.e. third] session of the first Parliament, of our most high and dread soveraign, Charles the second, by the grace of God, King of Scotland, England, France and Ireland, defender of the faith. Holden at Edinburgh, from the eighteenth of June, 1663. to the ninth of October thereafter, on which day the Parliament was dissolved; by a noble lord, John Earl of Rothes, Lord Lefly and Bambreith ... / with special advice and consent of the Estates of Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Rothes, John Leslie, Earl of, 1630?-1681.</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>44, [12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains: A table of the special acts and ratifications, past in the several sessions of this Parliament, which are not printed, p. [3]-[12].</note>
+                  <note>"Cum privilegio."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Statutes --  Scotland --  17th century.</term>
+               <term>Law --  Scotland --  17th century.</term>
+               <term>Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174604:1"/>
+            <pb facs="tcp:174604:1"/>
+            <p>LAWS and ACTS Paſt in the ſecond SESSION of the firſt PARLIAMENT, Of our moſt High and Dread SOVERAIGN, CHARLES THE SECOND, By the Grace of GOD, King of <hi>Scotland, England, France</hi> and <hi>Ireland,</hi> Defender of the Faith. Holden at <hi>Edinburgh,</hi> from the eighteenth of <hi>June,</hi> 1663. to the ninth of <hi>October</hi> thereafter, on which day the Parliament was diſſolved; <hi>By a Noble Lord,</hi> John <hi>Earl of</hi> Rothes, <hi>Lord</hi> Leſly <hi>and</hi> Bambreith, <hi>His</hi> MAJESTIES <hi>Commiſsioner for holding of the ſame, by vertue of a</hi> COMMISSION <hi>under His</hi> MAjESTIES <hi>Great Seal of this Kingdom.</hi>
+            </p>
+            <p>
+               <hi>With the ſpecial Advice and Conſent of the Eſtates of Parliament.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent MAjESTY, <hi>Anno Dom.</hi> 1663. <hi>CUM PRIVILEGIO.</hi>
+            </p>
+         </div>
+         <div type="crest">
+            <p>
+               <figure>
+                  <figDesc>royal crest</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174604:2"/>
+            <pb n="3" facs="tcp:174604:2"/>
+            <head>LAWS and ACTS paſt in the third Seſsion of the firſt <hi>PARLIAMENT,</hi> of our moſt High and Dread Soveraign, <hi>CHARLES</hi> the Second, by the grace of GOD, King of <hi>Scotland, England, France</hi> and <hi>Ireland, Defender of the Faith.</hi>
+            </head>
+            <head type="sub">Begun at <hi>Edinburgh</hi> upon the eighteenth of <hi>June, 1663.</hi> and continued to the ninth of <hi>October</hi> thereafter.</head>
+            <div n="1" type="act">
+               <head>
+                  <hi>I.</hi> ACT againſt ſeparation and diſobedience to Eccleſiaſtical Authority.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as the King's <hi>Majeſty,</hi> conſi<g ref="char:EOLhyphen"/>dering the prejudices which did enſue to the Church and Proteſtant Religion, to the Prerogative of the Crown, to the Authority of Parliament, to the Liberties of the Subject, and to the publick Laws and Peace of the King<g ref="char:EOLhyphen"/>dom, by the invaſions made upon Epiſ<g ref="char:EOLhyphen"/>copal Government during the late trou<g ref="char:EOLhyphen"/>bles; And finding that Government, to be the Church-government, moſt agreeable to the Word of GOD, moſt convenient and effectual for preſervation of Truth, Order and Unity, and moſt ſuteable to Monarchy and to the
+<pb n="4" facs="tcp:174604:3"/>Peace and Quiet of the State; Hath therefore, with advice and conſent of His Eſtates of Parliament, by ſeveral Acts paſt in the ſecond Seſſion of this Parliament, reſtored the Church to it's an<g ref="char:EOLhyphen"/>cient and right Government by Archbiſhops and Biſhops, and hath redintigrated the eſtate of Biſhops to the exerciſe of their Epiſco<g ref="char:EOLhyphen"/>pal Function, and to all the Priviledges, Dignities, Juriſdictions and Poſſeſſions due and formerly belonging thereunto. And in fur<g ref="char:EOLhyphen"/>ther order to the ſettlement of the Church, and bringing the Mini<g ref="char:EOLhyphen"/>ſters to a due acknowledgment of, and complyance with, the Government thereof thus eſtabliſhed by Law, His <hi>Majeſty,</hi> with advice foreſaid, hath alſo Statute and Ordained, That all theſe Miniſters, who entered to the Cure of any Paroch without Right or Preſentations from the lawfull Patrons, in and ſince the year, one thouſand ſix hundred and fourty nine, and ſhould not betwixt and the twentieth of <hi>September</hi> laſt, obtain Preſentations from their ſeveral Patrons, and Collation from the Biſhop of the Dioceſs where they lived, ſhould have no right to the uplifting the Rents of any Benefice or Stipend for the year, one thouſand ſix hundred and ſixty two, but that their Places, Benefices and Kirks ſhould be <hi>ipſo jure,</hi> vacand: And that what ever Miniſters ſhould, without a lawfull excuſe to be admitted by their Ordi<g ref="char:EOLhyphen"/>nary, abſent themſelves from the dioceſian Aſſembly, or who ſhould not concur in all the Acts of the Church-diſcipline, as they ſhould be thereunto required by the Archbiſhop or Biſhop of the Dioceſs, ſhould be for the firſt fault ſuſpended from their Office and Benefice till the next dioceſian Meeting; and if they amend not, ſhould be deprived, and the Church and Benefice to be provided as in other caſes of vacancies. And the King's <hi>Majeſty,</hi> having reſolved to conſerve and maintain the Church in the preſent State and Government thereof by Archbiſhops and Biſhops, and others bearing office therein, and not to endure nor give way or connivance to any variation therein in the leaſt, Doth therefore, with advice and conſent of His Eſtates conveened in this third Seſſion of His Parliament, Ratifie and Approve the aforementioned Acts, and all other Acts and Laws made in the two former Seſſions of Parliament, in order to the ſettling of Epiſcopal Dignity, Juriſdiction and Authority within this King<g ref="char:EOLhyphen"/>dom; and Ordains them to ſtand in full force as publick Laws of the Kingdom, and to be put to further execution in all points, conform to the tenor thereof. And in purſuance of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Royal reſolution herein, His <hi>Majeſty,</hi> with advice afore<g ref="char:EOLhyphen"/>ſaid, doth recommend to the Lords of His <hi>Majeſties</hi> Privy Council, to take ſpeedy and effectual courſe, that theſe Acts receive ready and due obedience from all His <hi>Majeſties</hi> Sub<g ref="char:EOLhyphen"/>jects; And for that end, that they call before them all ſuch Miniſters, who, having entered in or ſince the year, one thou<g ref="char:EOLhyphen"/>ſand ſix hundred and fourty nine, and have not as yet obtained
+<pb n="5" facs="tcp:174604:3"/>Preſentations and Collations, as aforeſaid, yet dared to preach in contempt of the Law, and to puniſh them as ſeditious per<g ref="char:EOLhyphen"/>ſons and contemners of the Royal Authority. As alſo, that they be carefull, that ſuch Miniſters, who keep not the dio<g ref="char:EOLhyphen"/>ceſian Meetings, and concur not with the Biſhops in the Acts of Church-diſcipline, being for the ſame ſuſpended or deprived, as ſaid is, be accordingly, after deprivation, removed from their Bene<g ref="char:EOLhyphen"/>fices, Glebs and Manſes; and if any of them ſhall notwithſtand<g ref="char:EOLhyphen"/>ing offer to retain the poſſeſſion of their Benefices or Manſes, that they take preſent courſe to ſee them diſpoſſeſt; and if they ſhall thereafter preſume to exerciſe their Miniſtry, that they be puniſhed as ſeditious perſons, and ſuch as contemn the Authority of Church and State.</p>
+               <p>And as His <hi>Majeſty</hi> doth expect, from all His good and dutifull Subjects, a due acknowledgment of, and hearty complyance with, His <hi>Majeſties</hi> Government, Eccleſiaſticall and Civil, as it is now eſtabliſhed by Law within this Kingdom, and that in order there<g ref="char:EOLhyphen"/>unto they will give their chearful concurrence, countenance and aſſiſtance to ſuch Miniſters, as by publick Authority are or ſhall be admitted in their ſeveral Paroches, and attend all the ordinary Meetings for divine Worſhip in the ſame; So His <hi>Majeſty</hi> doth Declare, That He will, and doth, account a with-drawing from, and not keeping and joyning in, theſe Meetings, to be ſeditious, and of dangerous example and conſequence. And therefore, and for preventing the ſame for the future, His <hi>Majeſty,</hi> with advice and conſent of His Eſtates in Parliament, doth hereby Statute, Ordain and Declare, That all and every ſuch perſon or perſons, who ſhall hereafter ordinarily and willfully with<g ref="char:EOLhyphen"/>draw and abſent themſelves from the ordinary Meetings of divine Worſhip in their own Paroch Church on the Lords-day, (whether upon account of Popery or other diſaffection to the preſent Government of the Church) ſhall thereby in<g ref="char:EOLhyphen"/>cur the pains and penalties under-written, <hi>viz.</hi> Each Noble<g ref="char:EOLhyphen"/>man, Gentleman and Heretor, the loſs of a fourth part of ilk years Rent, in which they ſhall be accuſed and convicted; and every Yeoman, Tennent or Farmer, the loſs of ſuch a pro<g ref="char:EOLhyphen"/>portion of their free moveables (after the payment of their Rents due to their Maſter and Land-lord) as His <hi>Majeſties</hi> Council ſhall think fit, not exceeding a fourth part thereof; and every Burgeſs to loſe the liberty of Merchandizing, Trad<g ref="char:EOLhyphen"/>ing, and all other Priviledges within Burgh, and fourth part of their moveables. And His <hi>Majeſty,</hi> with advice foreſaid, doth hereby authorize and require the Lords of His <hi>Majeſties</hi> Privy Council, to be carefull to ſee this Act put to due exe<g ref="char:EOLhyphen"/>cution; and for that end, to call before them all ſuch per<g ref="char:EOLhyphen"/>ſons as after admonition of the Miniſter, in preſence of two ſufficient witneſſes, and by him ſo atteſted, ſhall be given up
+<pb n="6" facs="tcp:174604:4"/>to the Council as tranſgreſſors of this Act, in with-drawing from their Paroch Churches as aforeſaid; and the ſame, after hearing of the parties, being duly found, to decern and in<g ref="char:EOLhyphen"/>flict the cenſures and penalties above-mentioned, and ſuch other coporal puniſhment as they ſhall think fit, and direct all execution neceſſary for making the ſame effectual, and to do every other thing they ſhall find neceſſary, for pro<g ref="char:EOLhyphen"/>curing obedience to this Act, and putting the ſame to pun<g ref="char:EOLhyphen"/>ctual execution, conform to the tenor and intent thereof.</p>
+            </div>
+            <div n="2" type="act">
+               <head>
+                  <hi>II.</hi> Additional ACT concerning the Declaration to be ſigned by all perſons in publick Truſt.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch, as by an Act, paſt in the ſe<g ref="char:EOLhyphen"/>cond Seſſion of this Parliament, on the fifth of <hi>September</hi> laſt, concerning the Declaration to be taken by all perſons in publick Truſt, It is remitted to His <hi>Majeſties</hi> Commiſſioner to take ſuch courſe as he ſhould think fit, how theſe, who are preſently in Office, may ſubſcribe the Declaration; And the King's <hi>Majeſty</hi> being reſolved, that all in publick Truſt, ſhould, without further delay, ſign the ſame; But conſidering, that in this vacand time, many of the Courts of Juſtice do not ſit, ſo as ſome longer time muſt be allowed unto them. Therefore, the King's <hi>Majeſty,</hi> with advice and conſent of His Eſtates in Parliament, Statutes and Ordains all perſons, who enjoy or poſſeſs any publick Truſt or Office within this King<g ref="char:EOLhyphen"/>dom, as, Officers of State, Members of Parliament, Privy Coun<g ref="char:EOLhyphen"/>cellors, Lords of the Seſſion, Commiſſioners in Exchequer, all Members of the Colledge of Juſtice, Sheriffs, Stewarts, Bailies of Regalities, Commiſſaries, Juſtices of Peace and their reſpective Deputes and Clerks, and all who enjoy any other publick Charge, Office or Truſt within the Kingdom, to ſubſcribe the Declara<g ref="char:EOLhyphen"/>tion hereunto ſubjoyned, in preſence of the ſeveral Courts they relate to, betwixt and the eleventh of <hi>November</hi> next to come, or ſooner, as they ſhall have occaſion or be required thereto by His <hi>Majeſties</hi> Council; Diſcharging hereby all ſuch of them, who ſhall not ſign the ſame, as ſaid is, to exerce any publick Truſt or Office within the Kingdom, after the ſaid eleventh of <hi>Novem<g ref="char:EOLhyphen"/>ber.</hi> And that a ſpeedy account may be returned hereof, It is hereby Ordained, that the Sheriffs in the ſeveral Shires be care<g ref="char:EOLhyphen"/>full in requiring due obedience to this Act, and that they and all others concerned therein, make report thereof to His <hi>Majeſties</hi>
+                  <pb n="7" facs="tcp:174604:4"/>Council, betwixt and the firſt of <hi>January</hi> next to come. And ſeing the election of the Magiſtrates and Council of Burghs will occur about <hi>Michaelmaſs</hi> next, and that ſome diſaffected perſons in Burghs, having none or ſmall advantages by their Magiſtracy, may, upon account of this Declaration, refuſe to accept any Charge or Truſt; It is therefore, by His <hi>Majeſty,</hi> with advice foreſaid, Statute, That at the next enſuing election of Magiſtrates within Burgh, all ſuch perſons who ſhall continue in, or be of new elected to be Magiſtrates, Clerks, or of the Council of Burghs, ſhall at ſuch their elections, if they be preſent, or otherwiſe, how ſoon thereafter they ſhall be required thereto by thoſe who did elect them, ſign the Declaration aforeſaid; Declaring hereby, all who ſhall refuſe or delay the ſame, to be from thenceforth not only in<g ref="char:EOLhyphen"/>capable of, and to have forfaulted, the priviledges of a Magiſtrate, but alſo all the priviledges of Merchandizing, Trading, and others belonging to a Burgeſs; And that the ſeveral Burghs make re<g ref="char:EOLhyphen"/>port of their proceedings therein to His <hi>Majeſties</hi> Council, be<g ref="char:EOLhyphen"/>twixt and the foreſaid eleventh of <hi>November,</hi> as they will be anſwerable upon their duty and alleagiance: And for ſuch as ſhall hereafter be admitted to any publick Truſt or Office, they are to ſign the Declaration in the maner, and under the certifications, expreſt in the former Act of Parliament of the fifth of <hi>September.</hi> And His <hi>Majeſty</hi> doth hereby recommend to the Lords of His <hi>Majeſties</hi> Privy Council, to be carefull that theſe Acts be put to due execution, and receive obe<g ref="char:EOLhyphen"/>dience conform to the tenor thereof.</p>
+               <p>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="declaration">
+                           <p>
+                              <hi>
+                                 <seg rend="decorInit">I</seg>
+                              </hi> Do ſincerely af<g ref="char:EOLhyphen"/>firm and declare, that I judge it unlawfull to Subjects, upon pretence of Reformation or other pretence whatſoever, to enter into Leagues and Covenants, or to take up Armes againſt the King or theſe Commiſsionate by Him: and that all theſe Gatherings, Convocations, Petitions, Proteſtations, and erecting and keeping of Council-tables, that were uſed in the be<g ref="char:EOLhyphen"/>ginning, and for carrying on, of the late troubles, were unlawfull and ſeditious. And particularly, that theſe Oaths, whereof the one was commonly called, <hi>The National Covenant,</hi> (as it was ſworn and explained in the year one thouſand ſix hundred and thirty eight, and thereafter) and the other entituled, <hi>A Solemen League and Covenant,</hi> were, and are, in themſelves, unlawfull Oaths, and were taken by, and impoſed upon, the Subjects of this Kingdom, againſt the fundemental Laws and Liberties of the ſame: And that there lyeth no obligation upon me, or any of the Subjects, from the ſaids Oaths, or either of them, to en<g ref="char:EOLhyphen"/>deavour any change or alteration of the Government, either in Church or State, as it is now eſtabliſhed by the Laws of the Kingdom.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </p>
+            </div>
+            <div n="3" type="act">
+               <pb n="8" facs="tcp:174604:5"/>
+               <head>
+                  <hi>III.</hi> ACT againſt Protections.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He King's moſt Excellent <hi>Majeſty</hi> being carefull, that the benefit of the Law in the adminiſtrations of Juſtice, be free to all His <hi>Majeſties</hi> good Subjects; And conſidering the prejudices many have for<g ref="char:EOLhyphen"/>merly ſuſtained, in the ſtopping of the courſe of Juſtice, by the too frequent granting of Protections againſt perſonal execution. Therefore, and for prevent<g ref="char:EOLhyphen"/>ing of the like for the future, His <hi>Majeſty,</hi> with advice and con<g ref="char:EOLhyphen"/>ſent of His Eſtates in Parliament, Doth Ratifie, Approve and Renew all former Acts of Parliament, made againſt the granting of Protections; And Diſchargeth the Lords of His <hi>Majeſties</hi> Privy Council, Seſſion and Exchequer, to grant Protections to any perſons againſt perſonal execution, certifying ſuch as ſhall grant the ſame, they ſhall be liable for the debt againſt which they grant the Protection; and all execution ſhall paſs againſt the havers thereof, as if the ſame had not been granted.</p>
+               <p>It is alwayes hereby Declared, That notwithſtanding hereof, it ſhall be free to the Lords of His <hi>Majeſties</hi> Privy Council, Lords of Seſſion and Exchequer, and to the Juſtice-general and his Deputes, when any perſon or perſons are ſummoned and appointed to appear perſonally before them, to give order now, as they have been in uſe formerly to do, for ſuſpending per<g ref="char:EOLhyphen"/>ſonal execution againſt the perſons ſo ſummoned and appoint<g ref="char:EOLhyphen"/>ed to appear, for ſuch few dayes, as they may come to give their appearance, and during their neceſſar ſtay, and ſome few dayes for their return, and that according as the ſaids re<g ref="char:EOLhyphen"/>ſpective Judges ſhall find reaſon, upon the particular applica<g ref="char:EOLhyphen"/>tions to be made thereupon,</p>
+            </div>
+            <div n="4" type="act">
+               <pb n="9" facs="tcp:174604:5"/>
+               <head>
+                  <hi>IV.</hi> ACT for the eſtabliſhment and conſtitution of a National Synod.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as the ordering and diſpoſal of the external Government of the Church, and the nomination of the perſons, by whoſe advice matters relating to the ſame are to be ſetled, doth belong to His <hi>Majeſty,</hi> as an inherent right of the Crown, by vertue of His Prero<g ref="char:EOLhyphen"/>gative-royal, and ſupream Authority in cauſes Eccleſiaſtical: And in proſecution of this Truſt, His <hi>Majeſty,</hi> conſidering how fit and neceſſary it is, for the honour and ſervice of Almighty God, the good and quiet of the Church, and the better Government thereof in unity and order, that there be a National Synod and Aſſembly duly conſtitute within this Kingdom, Hath therefore Appointed and Declared, and by theſe preſents Appoints and Declares, that there ſhall be <hi>a National Synod of the Church of</hi> Scotland: And that this Synod, for the lawful Members thereof ſhall conſiſt and be conſtitute of the Archbiſhops of St. <hi>Andrews</hi> and <hi>Glaſgow,</hi> and the remanent Biſhops of theſe two Provinces, of all Deans of Cathedral Churches, Arch-deacons, of all the Moderators of Meetings for exerciſe, allowed by the Biſhops of the reſpective Dioceſſes, and of one Presbyter or Miniſter of each Meeting, to be choſen and elected by the Moderator and plurality of Presbyters of the ſame; and of one or two from the Univer<g ref="char:EOLhyphen"/>ſity of St. <hi>Andrews,</hi> one from <hi>Glaſgow,</hi> one from the Kings Col<g ref="char:EOLhyphen"/>ledge, one from <hi>Marſhals</hi> Colledge, of <hi>Aberdeen,</hi> and one from the Colledge of <hi>Edinburgh;</hi> And this Synod, thus conſtitute, is to meet at ſuch times and places as His <hi>Majeſty,</hi> by His Proclama<g ref="char:EOLhyphen"/>tion, ſhall appoint; and is to debate, treat, conſider, conſult, conclude and determine upon ſuch pious matters, cauſes and things, concerning the Doctrine, Worſhip, Diſcipline and Government, of this Church, as His <hi>Majeſty</hi> ſhall from time to time, under His Royal hand, deliver, or cauſe be delivered, to the Archbiſhop of St. <hi>Andrews,</hi> Preſident of the ſaid National Aſſembly, to be by him offered to their conſideration. The Eſtates of Parliament do humbly recognoſce and acknowledge His <hi>Majeſties</hi> Royal Power and Prerogative aforeſaid, with the piety, juſtice and prudence of His <hi>Majeſties</hi> reſolution herein; Likeas His <hi>Majeſty,</hi> with their advice and conſent, doth hereby Eſtabliſh, Ratifie and
+<pb n="10" facs="tcp:174604:6"/>Confirm this conſtitution of a National Aſſembly, as the law<g ref="char:EOLhyphen"/>ful conſtitution of the National Synods and Aſſemblies of this Church, His <hi>Majeſty,</hi> or His Commiſſioner (without whoſe preſence, no National Synod can be kept) being al<g ref="char:EOLhyphen"/>wayes preſent: And Declares, That no Act, Canon, Order or Ordinance ſhall be owned as an Act of the National Synod of the Church of <hi>Scotland,</hi> ſo as to be of any effect, force or validity in Law, to be obſerved and keeped by the Archbi<g ref="char:EOLhyphen"/>ſhops and Biſhops, the inferiour Clergy, and all other peſons within this Realm (as far as lawfully, being Members of this National Church, it may concern them) but that which ſhall be conſidered, conſulted and agreed upon by the Preſident and major part of the Members above-ſpecified. It is alwayes hereby provided, that nothing be enacted or put in execution, by Authority of a National Synod within this Kingdom, which ſhall be contrary to His <hi>Majeſties</hi> Royal Prerogative or the Laws of the Kingdom; And that no Act, Matter or Cauſe be debated, conſulted and concluded upon, but what ſhall be allowed, approven and confirmed by His <hi>Majeſty</hi> or His Com<g ref="char:EOLhyphen"/>miſſioner, preſent at the ſaid National Synod.</p>
+            </div>
+            <div n="5" type="act">
+               <head>
+                  <hi>V.</hi> ACT anent ruinous houſes in Royal Burghs.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord being informed, that upon the high Streets of ſeveral of His <hi>Majeſties</hi> Burghs-royal, and in the vennels and other paſ<g ref="char:EOLhyphen"/>ſages within the ſame, there be many houſes in the publick view of all people reſorting thereto, very ruinous and not inhabited theſe divers years by-gone, nor likely to be repaired by any, to the great opprobry of the ſaid Burghs, and common ſcandal of the Kingdom, as being altogether defective of that policy and good order which is, and ever hath been, ſo earneſtly intended in the many wholſom and laudable Laws already made, by His <hi>Majeſty</hi> and His Royal Progenitors of moſt worthy memory. And finding the Burroughs very deſirous to have theſe many dan<g ref="char:EOLhyphen"/>gers and inconveniences prevented and remeeded, which the inhabitants of theſe Burghs, and the reſt of the Lieges fre<g ref="char:EOLhyphen"/>quenting the ſame, do continually fear from ſuch ruinous build<g ref="char:EOLhyphen"/>ings; Doth therefore, with advice of His Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, Ordain the Provoſt and Bailies of the Burgh where ſuch ruinous houſes are, to cauſe warn and charge all perſons, that
+<pb n="11" facs="tcp:174604:6"/>have or pretends right to the property of ſuch Lands and Build<g ref="char:EOLhyphen"/>ings, or any Annual-rents forth thereof, to cauſe build and repair in a decent way, within year and day, ſuch Houſes and Buildings as have been waſt and not inhabited three years be<g ref="char:EOLhyphen"/>fore the date of this preſent act, or ſhall be waſt and not in<g ref="char:EOLhyphen"/>habited thereafter by the foreſaid ſpace of three years, or elſe to ſell the ſame to others, to be builded within the ſame ſpace of year and day: And to charge all known perſons, per<g ref="char:EOLhyphen"/>ſonally or at their dwelling places, and by open Proclama<g ref="char:EOLhyphen"/>tion at the Paroch-kirk or Mercat-croſs of the Burgh; and all others by open Proclamation at the ſaid Mercat-croſs and Pa<g ref="char:EOLhyphen"/>roch-kirk. And in caſe of their abſence out of this Realm, at the Croſs of <hi>Edinburgh,</hi> and Peer and Shoar of <hi>Lieth,</hi> upon threeſcore dayes; with certification to them if they failzie, the ſaid Provoſt and Bailies ſhall cauſe the ſaid Lands and Tene<g ref="char:EOLhyphen"/>ment to be valued by certain perſons, to be choſen and ſworn by them for that effect, and ſell the ſame to any perſon that will buy them, and pay the price of the ſame to theſe owners, if they be known; and if they be not known, to conſign the prices thereof in the hands of the Provoſt, one of the Bai<g ref="char:EOLhyphen"/>lies, or Dean of Gild of the ſaid Burgh, to be forth-coming to theſe who have intereſt thereto: And if no man will buy them, it ſhall be lawfull to the ſaid Provoſt and Bailies, after appriſing thereof, as ſaid is, and payment or conſignation of the prices of the ſame, to caſt down the ſaid ruinous Houſes, and cauſe build the ſame of new. And His <hi>Majeſty,</hi> with advice foreſaid, Declares, That it ſhall not be lawfull in time com<g ref="char:EOLhyphen"/>ing, to any manner of perſon to purſue them nor their ſucceſ<g ref="char:EOLhyphen"/>ſors therefore, nor pretend any right or intereſt therto, but that the ſaid right ſhall be a perfect ſecurity to the builders thereof and their ſucceſſors.</p>
+            </div>
+            <div n="6" type="act">
+               <pb n="12" facs="tcp:174604:7"/>
+               <head>
+                  <hi>VI.</hi> ACT diſcharging the importation of Strong-waters, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord and Eſtates of Parliament, un<g ref="char:EOLhyphen"/>derſtanding, that there are divers Strong-waters, Mum-bear and other Beer for drinking, brought in<g ref="char:EOLhyphen"/>to this Kingdom from Forraign places, which might be more conveniently made within the Kingdom, to the benefit of the natives thereof. Therefore, His <hi>Majeſty,</hi> with conſent of the ſaids Eſtates, Diſcharges all in-bringing of <hi>Aqua-vitae</hi> or Strong-waters, Mum-beer and other Beer for drinking (except Black-beer, called Spruce-beer) within this Kingdom, under the pain of eſcheat thereof.</p>
+            </div>
+            <div n="7" type="act">
+               <head>
+                  <hi>VII.</hi> ACT diſcharging the mixing of Tin with Lead.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord and Eſtates of this preſent Par<g ref="char:EOLhyphen"/>liament conſidering, the great hurt ſuſtained by His <hi>Majeſties</hi> Lieges, by the fraudulent dealing of Pewterers, in mixing the finer ſort of Tin brought from <hi>England, France, Flanders</hi> and other parts beyond ſea, with baſer and courſer mettal of Tin and Lead, and their exacting greater prices betwixt the new Pewter caſten by them, and the old which they receive from the Lieges. For remeid thereof, it is Statute and Ordained, that the Pewterer or Founder of Tin, ſhall put the mark of the Thiſtle, and the Deacons mark; with his own name, upon every peece of work that he happens to caſt, and that the ſame ſhall be of the fineſt of the Pewter marked with the Roſe in <hi>England;</hi> And in caſe the ſame be under the fineſt of the ſaid Pewter of <hi>England,</hi> that the ſame ſhall be confiſcat, and he puniſhed in his perſon at the diſcretion of the Magiſtrates of the Burgh where he dwels: And to that effect, that there be a Say-maſter appointed by the Magiſtrates in each Burgh, for trying of the ſame. As like<g ref="char:EOLhyphen"/>wayes, that he ſhall take, betwixt the pound of old Pewter and Tin, marked with the Roſe foreſaid, and the pound of new caſten by him, two ſhillings <hi>Scots</hi> allanerly, under the pain foreſaid.</p>
+            </div>
+            <div n="8" type="act">
+               <pb n="13" facs="tcp:174604:7"/>
+               <head>
+                  <hi>VIII.</hi> ACT anent the diſcharging of Advocations for ſums within two hundred merks.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord and Eſtates of Parliament con<g ref="char:EOLhyphen"/>ſidering, the manifold prejudices and troubles ariſ<g ref="char:EOLhyphen"/>ing to divers of His <hi>Majeſties</hi> Lieges, in purſuing of maters of ſmall importance, by the too frequent granting of Advocations from inferiour Judges. Therefore, our ſaid Soveraign Lord, with advice and conſent of the ſaids Eſtates, Diſcharges the Lords of Seſſion from giving and granting Letters of Advo<g ref="char:EOLhyphen"/>cation, of any actions intended or to be intended before whatſo<g ref="char:EOLhyphen"/>ever inferiour Judicatories, which may competently, by the Laws of the Kingdom, be decided by the ſaids inferiour Judges, before whom the ſaid Action is or ſhall be intended, for ſums of money within two hundred Merks; or for any other cauſe, whereunto by the Laws of the Kingdom, the ſaids inferiour Judges are ex<g ref="char:EOLhyphen"/>preſly appointed Judges.</p>
+            </div>
+            <div n="9" type="act">
+               <head>
+                  <hi>IX.</hi> ACT in favours of Minors, anent the duties of the Lands compriſed from them.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord conſidering, the favourable condition of Minors, who are often-times deſti<g ref="char:EOLhyphen"/>tute of Tutors and Curators; and though they have them, yet in reſpect of their minority, they are not in capacity or credit to raiſe ſums of money for ſatisfaction of their Creditors: And it being unreaſonable, that their Creditors compriſers of their Eſtate, ſhould, during the not expiring of the legall reverſion, which, according to Law, continues during their minority, have more advantage by their Eſtate then correſponds to the Annual<g ref="char:EOLhyphen"/>rent of the true ſums owing to them by vertue of their com<g ref="char:EOLhyphen"/>priſings; Doth, with advice and conſent of His Eſtates of Par<g ref="char:EOLhyphen"/>liament, Ratifie and Approve the act of Parliament, made in <hi>Auguſt,</hi> one thouſand ſix hundred and twenty one, <hi>Cap.</hi> 6. in ſo
+<pb n="14" facs="tcp:174604:8"/>far as the ſame concerns Minors; And Declares, that the true meaning thereof was, and is, that Minors, having right to the legal reverſion, ſhould be no further oblieged during their mi<g ref="char:EOLhyphen"/>nority of twenty one years of age, but allanerly for the An<g ref="char:EOLhyphen"/>nual-rent of the ſums contained in the compriſings; and that they loſe not the right of the <hi>ſuper-plus</hi> of the mailes and duties of the Lands, ſo far as the ſame exceeds the ſaid Annual-rents, during their ſaid minority.</p>
+            </div>
+            <div n="10" type="act">
+               <head>
+                  <hi>X.</hi> ACT againſt exportation of Money forth of the Kingdom.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering, how much the Kingdom is impove<g ref="char:EOLhyphen"/>riſhed by the daily exportation of mo<g ref="char:EOLhyphen"/>ney forth of the ſame; and that the making uſe of our own native Com<g ref="char:EOLhyphen"/>modities, for furniſhing us with theſe things which formerly were brought to us from Forraign places, is, by the commendable induſtry of ſeveral deſerv<g ref="char:EOLhyphen"/>ing Countrey-men and ingenuous Artiſts, much improved: And that in order to their encouragement, and that our own native Commodities may go the better off, neceſſar it is, that ſome more ſevere reſtraint then formerly be laid upon the exporta<g ref="char:EOLhyphen"/>tion of money. Therefore, the King's <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Parliament, Statutes and Ordains, That no perſon or perſons whatſoever, ſhall trade or uſe mer<g ref="char:EOLhyphen"/>chandize with any other Nation, till firſt they take an Oath before the Lord Theaſurer or Theaſurer-depute, or before ſuch perſons as they ſhall appoint for that effect, that they ſhall not export by themſelves or others, directly or indirectly, by Sea or Land, any Gold or Silver, coyned or un-coyned, except ſuch a ſum as they ſhall declare upon oath before the ſaid Lord Theſaurer, Theſaurer-depute, or theſe appointed by them, as ſaid is, to be neceſſar for making of their voyage to the Port where they are going; and that if he know any money tranſ<g ref="char:EOLhyphen"/>ported by any other perſon, he ſhall delate the ſame to the Lord Theſaurer, Principal or Depute, or to the foreſaid perſons appointed by them. As likewiſe, every Skipper ſhall, before he make any voyage after the publication hereof, to any other Kingdom or Nation, take an Oath before the ſaid Lord The<g ref="char:EOLhyphen"/>ſaurer
+<pb n="15" facs="tcp:174604:8"/>or Theſaurer-depute, or theſe appointed by them for that effect, that he ſhall not himſelf tranſport, nor ſuffer any Gold or Silver, coyned or un-coyned (except as is above-excepted, and except the ſum of three ſcore pounds at moſt, which every Paſſenger is hereby allowed to carry forth of the Countrey for his neceſſar ſpending) to be tranſported in the Ship wherein he is Maſter, and that he ſhall uſe his utmoſt endeavour for diſcovery of the ſame, if any be: And that if after he hath made ſail, it ſhall come to his knowledge, that there is any money concealed in his Ship, or in any other Ship, he ſhall, at his return, delate the ſame to the Lord Theſaurer, Prin<g ref="char:EOLhyphen"/>cipal or Depute, or to theſe appointed by them for that ef<g ref="char:EOLhyphen"/>fect: and which perſons appointed by them, are hereby re<g ref="char:EOLhyphen"/>quired, to give timous notice thereof to the ſaid Lord The<g ref="char:EOLhyphen"/>ſaurer or Theſaurer-depute, under the penalty of the half of the money informed to have been tranſported. And ſicklike, the ſaids Oaths ſhall be renewed and taken before the ſaids Lord Theſaurer or Depute, or theſe appointed by them, as ſaid is, by all Skippers and Merchants, at the making of every par<g ref="char:EOLhyphen"/>ticular voyage; and both the ſaids Oaths ſhall be ſubſcribed by the reſpective parties, and inſert in the Books of Exche<g ref="char:EOLhyphen"/>quer, or in the Books of theſe perſons appointed by the Lords Theſaurer or Depute for that effect; for which Extracts, they ſhall pay to the keepers of theſe Regiſters twelve ſhillings <hi>Scots</hi> allanerly, the one thereof to be carried to the Cuſtomer, and in<g ref="char:EOLhyphen"/>ſert in their Books <hi>gratis;</hi> the other to be carried to the keeper of the Cocquet, and inſert in his Books <hi>gratis.</hi> And it is fur<g ref="char:EOLhyphen"/>ther Statute and Ordained, That in caſe any Merchant or Skip<g ref="char:EOLhyphen"/>per, ſhall, after the publication hereof, trade with, or make any voyage to any other Kingdom or Nation, before the taking of the ſaids Oaths, and production of the Extracts thereof to the Cuſtomer and keeper of the Cocquet, that then they ſhall forfeit the fifth part of their moveables and be incapable, the Merchant of all trading, and the Skipper of having any charge of any Ship within this Kingdom in all time coming. Pro<g ref="char:EOLhyphen"/>vided alwayes, that the taking of the Oaths above-mentioned ſhall be without prejudice of ſearch for, or ſeiſure of, any export<g ref="char:EOLhyphen"/>ed money: And if any Gold or Silver, coyned or un-coyned, ſhall, after publication hereof, be diſcovered carrying out of the Kingdom, by any perſon who hath taken the ſaid Oath, the ſame not only to be confiſcat, but the perſon or perſons owners thereof, to be proceeded againſt as perjured perſons, and further lyable to ſix moneths impriſonment. As alſo, it is hereby De<g ref="char:EOLhyphen"/>clared, that notwithſtanding of the ſaid Oaths, if it ſhall at any time thereafter be legally proven, money hath been carried out of the Kingdom by the perſons takers of the ſaid Oath, the ſaids perſons ſhall be proceeded againſt as perjured perſons, and
+<pb n="16" facs="tcp:174604:9"/>by and attour, be fined in the value of the money exported; and whatſoever money ſhall be diſcovered or ſeized upon, the one half thereof to be for His <hi>Majeſties</hi> uſe, and the other half to the informer. And the Lord Theſaurer and Theſaurer-de<g ref="char:EOLhyphen"/>pute are hereby required, to appoint ſufficient honeſt men, to be found at the reſpective Ports of this Kingdom, or Royal Burghs next adjacent thereto, for taking of the ſaids Oaths; And that they take Bond, with ſufficient caution, from each of the perſons ſo appointed, under the pain of ſix thouſand pounds <hi>Scots,</hi> that they ſhall not ſuffer any Merchant or Skipper to uſe trade or merchandize with any Forraign Kingdom or Na<g ref="char:EOLhyphen"/>tion, before they have taken the ſaid Oaths; and ſhall do their utmoſt endeavours for diſcovery and ſeizure of all money carryed out of the Kingdom: And that if it ſhall be informed to them, that any money hath been carryed out of the King<g ref="char:EOLhyphen"/>dom, they ſhall give ſpeedy and timeous notice of their infor<g ref="char:EOLhyphen"/>mation to the ſaid Lord Theſaurer or Theſaurer-depute, the one half of the foreſaid ſum of ſix thouſand pounds, in caſe of failzie, to be for His <hi>Majeſties</hi> uſe, and the other half to be given to the delator, and to be further liable to ſix moneths impriſonment for breach of their truſt. And ſicklike, the ſaid Lord Theſaurer principal, and Theſaurer-depute, are hereby required, to cauſe the Farmerers and Collectors of the Cuſtom, and keepers of the Cocquet, to take an Oath, that the ſaids Farmerers and Collectors of the Cuſtom ſhall uſe their utmoſt endeavours, for the diſcovery and ſeizure of all money carrying out of the Kingdom by Sea or Land, either by Merchant, Skipper, or by any perſon of whatſoever quality or degree, ex<g ref="char:EOLhyphen"/>cept as is above excepted; and that they ſhall not give warrand to any Skipper to receive a Cocquet, unleſs they have received, both from the Skipper and Merchants in the Ship, extracts of the reſpective Oaths, as ſaid is; and that the keepers of the Cocquets ſhall give no Cocquet, unleſs they have likewiſe received extracts of the Oaths above-mentioned, both from Skipper and Mer<g ref="char:EOLhyphen"/>chants; and both Cuſtomers and keepers of the Cocquet to give Bond, with ſufficient Caution, under ſuch ſums of money as the ſaid Lord Theſaurer principal, and Theſaurer-depute ſhall think fit, for fulfilling of the premiſſes. And in caſe the ſaids Farmerers, Collectors and keepers of the Cocquet, or either of them, ſhall refuſe to compear, or compearing, refuſe or delay to take the Oath, and give their Bond as aforeſaid, then their Tack, Commiſſion, Gift, or any other Title by which they enjoy their Places and Charges to be void and null, and they to be further lyable to ſuch cenſures, as the ſaid Lord Theſaurer principal, and Theſaurer-de<g ref="char:EOLhyphen"/>pute ſhall think fit for their contumacy. And if it ſhall be made appear to the ſaid Lord Theſaurer principal, and Theſaurer-depute, that any of the Farmerers or Collectors of Cuſtom, or keepers of
+<pb n="17" facs="tcp:174604:9"/>Cocquet, ſhall tranſgreſs the Oath and Bond above-mentioned in any part, then their Tack, Commiſſion, Gift, or any other Title by which they enjoy their ſaids Places, to be void and null, and they to have incurred the ſums and penalties contained in their reſpective Bonds (the one half thereof to be given to the informer or delator) and to be further proceeded againſt as perjured perſons; Diſcharging hereby, all granting of Licences for exporting of money; except to ſuch perſons allanerly as ſhall make faith in Exchequer, or theſe appointed by the Lord Theſaurer or Theſaurer-depute; and give ſufficient Bond, that the money which they are to carry out, is to be beſtowed upon Timber in <hi>Norway,</hi> or in order for bringing in of Victual in time of extream dearth, and that they ſhall return, <hi>in ſpecie,</hi> what part of the money ſhall not be ſo beſtowed.</p>
+            </div>
+            <div n="11" type="act">
+               <head>
+                  <hi>XI.</hi> ACT for encouragement of Tillage and Paſturage.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>UR Soveraign Lord conſidering, how neceſſar it is, for the encouragement of the tillage of this Country, which is ſubject to ſo much toil and expence, though the improvement thereof be moſt advantagious to the whole King<g ref="char:EOLhyphen"/>dom, That liberty be granted for the exportation of Corns, after the Na<g ref="char:EOLhyphen"/>tives are ſufficiently provided for. Therefore, the King's <hi>Majeſty,</hi> with advice and conſent of His Eſtates in Parliament, Statutes and De<g ref="char:EOLhyphen"/>clares, That it ſhall be lawful to export Corns of all ſorts, when they are under the prices following, at the Ports or reſpective places of exportation; <hi>viz.</hi> ilk Boll of Wheat, under twelve pounds the Boll, Beir and Barley, under eight pounds the Boll, Oates and Peaſe, under eight merks the Boll; notwithſtanding of any former Acts, Laws or Practice to the contrary, they pay<g ref="char:EOLhyphen"/>ing the uſual Cuſtom and Bullion as formerly: with this proviſi<g ref="char:EOLhyphen"/>on, That when the Lords of His <hi>Majeſties</hi> Secret Council ſhall judge it neceſſar, for the good of the Kingdom and preventing of dearth, they may diſcharge the exportation of Victual of all ſorts, for ſo long time as they ſhall think fit. As alſo, for im<g ref="char:EOLhyphen"/>provement
+<pb n="18" facs="tcp:174604:10"/>of the Paſturage of this Kingdom, and for encourage<g ref="char:EOLhyphen"/>ment of the breeders of the Beſtial thereof, It is Statute and Ordained, with advice and conſent foreſaid, that the exportation by Sea, of all ſorts of Beſtial, either Nolt, Sheep or Swine, and barrelled Fleſhes of all ſort, ſhall be free of Cuſtom, Bullion, and all other impoſitions, for the ſpace of nineteen years next after the date hereof.</p>
+            </div>
+            <div n="12" type="act">
+               <head>
+                  <hi>XII.</hi> ACT for a new Impoſition upon Engliſh Com<g ref="char:EOLhyphen"/>modities.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering, how much it concerns the credit and wealth of the Kingdom, that our own native Commodities be manufactured amongſt our ſelves, and that the en<g ref="char:EOLhyphen"/>deavours of ſuch perſons as are ſetting up Manufacturies and Trades, have been, and are much retarded, by the importation of ſuch forraign Commo<g ref="char:EOLhyphen"/>dities as may be made within the King<g ref="char:EOLhyphen"/>dom. Therefore, and for their due encouragement, the King's <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Statutes and Ordains, That from and after the firſt day of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> next, twelve pounds <hi>Scots</hi> upon ilk ell of broad Engliſh Cloath; ſix pounds upon ilk ell of <hi>York-ſhire</hi> and all narrow Cloath; two pounds eight ſhillings upon ilk ell of Searge; thirty ſhillings upon ilk ell of Caſtilians; forty eight pounds upon ilk Beaver-hat; twenty four pounds upon ilk Demy-beaver and Vi<g ref="char:EOLhyphen"/>gon; and three pounds upon the peece of ilk common Hat; thirty ſix pounds upon the dozen of worſtead Stockings; twenty four pounds upon the dozen of Stag-gloves; and twelve pounds upon the dozen of ſingle Stags, Cordivans, Kid or Shiverings; and twenty four ſhillings upon ilk pound of Tobacco, imported either for ſale or private uſe into this Kingdom from <hi>England,</hi> all <hi>Scots</hi> money; Be exacted, levied and collected; and fourſcore <hi>per cent.</hi> upon all other ſorts of Commodities imported into this King<g ref="char:EOLhyphen"/>dom from <hi>England,</hi> and not particulary named in this Act, and upon all the growth and Manufactury of that Kingdom, though imported from any other place, and that over and above all other impoſitions put upon the ſame already. And to the ef<g ref="char:EOLhyphen"/>fect this preſent Act may be the more exactly put to execu<g ref="char:EOLhyphen"/>tion,
+<pb n="19" facs="tcp:174604:10"/>It is Statute and Ordained, That all Goods imported from <hi>England,</hi> or of the growth and manufactury of <hi>England,</hi> not above particularly expreſt, ſhall be valued, after ſighting, by two skilfull honeſt men, upon oath, to be nominate by the Dean of Gild or his Aſſeſſors, or Magiſtrates of the Burgh, or next adjacent Burgh to the Cuſtom-office, where the ſaids Goods are entered, or by the oath of the party to whom the ſaids Goods belongs, and accordingly pay the ſaid fourſcore <hi>per cent.</hi> And the Lords Theſaurer and Theſaurer-depute, and Lords of His <hi>Majeſties</hi> Exchequer, are hereby required to take an Oath, and Bond with ſufficient Caution, from the Farmers or Col<g ref="char:EOLhyphen"/>lectors of the ſaids impoſitions, that they ſhall exactly collect the ſame, without any abatement thereof, directly or indirectly; and that they ſhall not ſuffer any of the ſaids Goods to paſs or be conveyed away un-entred, and that under the penalty of the worth of the ſaids Goods, if the contrary ſhall be made appear, the one half thereof to His <hi>Majeſties</hi> uſe, and the other half to the informer, and under the pain of forfaulting their Tacks and Commiſſions, and being declared incapable to farm or col<g ref="char:EOLhyphen"/>lect, in any time hereafter, any Cuſtom, Exciſe, or other Impo<g ref="char:EOLhyphen"/>ſition whatſoever within this Kingdom. And if any of the foreſaids Goods or Commodities ſhall be informed and made appear to be brought in, or ſhall be ſeized upon, not being entered in the Cuſtom-office, or any other Office appointed for that effect, then the ſame to be wholly confiſcat, the one half to His <hi>Majeſties</hi> uſe, and the other half to the firſt informer or ſeizer thereof.</p>
+            </div>
+            <div n="13" type="act">
+               <head>
+                  <hi>XIII.</hi> ACT impoſing a Cuſtom upon Corn imported from <hi>Ireland</hi> into this Kingdom.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering, what great ſums of money are carryed out of the Kingdom, by perſons, impor<g ref="char:EOLhyphen"/>ters of Corn hither from <hi>Ireland,</hi> who having ſold their Corns, export the mo<g ref="char:EOLhyphen"/>ney without battering any of the Com<g ref="char:EOLhyphen"/>modities of this Kingdom; whereby the whole Nation, particularly thoſe near adjacent parts of the Kingdom, are much impoveriſhed of money: And that it is juſt and reaſonable that the ſaid Corns ſhould bear Cuſtom, toward the increaſe of His <hi>Majeſties</hi> Revenue, proportionably with other imported
+<pb n="20" facs="tcp:174604:11"/>Commodities, eſpecially when the Corns of this Kingdom are ſold at eaſie rates. Therefore, the King's <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Parliament, Doth hereby impoſe three pounds <hi>Scots</hi> of Cuſtom upon ilk boll, <hi>Linlithgow</hi> meaſure, of Corn imported into this Kigdom from <hi>Ireland,</hi> after the firſt day of <hi>Seplember</hi> next; and appoints thirty ſhillings <hi>Scots</hi> to be raiſed upon ilk boll already imported, and not yet retailed, con<g ref="char:EOLhyphen"/>form to an Act of the Committee of Eſtates made there-anent, in <hi>anno,</hi> one thouſand ſix hundred and ſixty. But, leaſt the more indigent ſort of people might be prejudged, by highting the prices of the ſaids Corns in time of dearth, under pretence of the ſaid Cuſtom; Therefore, the King's <hi>Majeſty,</hi> with advice and conſent foreſaid, doth hereby give power to the Lords of His Privy Council, to remit and diſcharge the exacting of the ſaid Cuſtom, when they ſhall find the prices of the Victual of this Kingdom, Meal and Barley <hi>reſpective,</hi> to exceed eight pounds the boll; And appoints the Lords of His Exchequer to cauſe put this Act to full execution, and cauſe the foreſaid Cuſtom be ex<g ref="char:EOLhyphen"/>actly levied, with power to them to allow ſuch fies to the Col<g ref="char:EOLhyphen"/>lectors thereof as they ſhall think fit.</p>
+            </div>
+            <div n="14" type="act">
+               <head>
+                  <hi>XIV.</hi> ACT for in-bringing of His <hi>Majeſties</hi> Rents.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch, as His <hi>Majeſty</hi> and Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, taking to their conſideration, the great contempt and neglect of the ſeveral Fewers and others lyable in payment of His <hi>Majeſties</hi> Rents, where-through (notwithſtanding of the dili<g ref="char:EOLhyphen"/>gence and endeavours of His <hi>Majeſties</hi> Theſaurer principal, Theſaurer-depute, and others his <hi>Majeſties</hi> Officers ap<g ref="char:EOLhyphen"/>pointed for the management of His <hi>Majeſties</hi> Revenue) the ſame are not payed, or otherwiſe ſo unſeaſonably payed, that it proves a great hindrance and prejudice to His <hi>Majeſties</hi> Affairs. And finding ſeveral Acts of Parliament made for the timeous and ſea<g ref="char:EOLhyphen"/>ſonable payment of His <hi>Majeſties</hi> Rents, as well conſtituting the time and ſitting of Exchequer, to the effect that the perſons lyable in payment, might know both the time, place and perſons, where, when, and to whom they ſhould compt and make payment of the ſaids Duties, as alſo ſuch cenſures and penalties as might induce them to due obedience thereto: Particularly, the ſixty third Act, <hi>Par.</hi> eleventh, holden by His <hi>Majeſties</hi> Grand<g ref="char:EOLhyphen"/>father
+<pb n="21" facs="tcp:174604:11"/>of bleſſed memory, in <hi>anno,</hi> one thouſand five hundred and eighty ſeven, Ordaining the Exchequer to ſit down the firſt day of <hi>July</hi> yearly, and to continue to the laſt day of <hi>Auguſt</hi> thereafter; requiring not only the Theſaurer, Comptroller, Collector, their Deputes and other Officers, to be preſent and give their attendance during the ſaid time; but alſo, all perſons lyable in payment, who ought to make compt in Exchequer, to be charged by Precepts to compear thereat, under the pain of fourty pounds, to be uplifted by the Theſaurer; Ordaining Let<g ref="char:EOLhyphen"/>ters of Horning to be directed againſt them for payment there<g ref="char:EOLhyphen"/>of, and that the ſaids perſons do attend for making of the ſaids accompts to the cloſe thereof; and in caſe of diſobedience to the ſaid Precept, that they be charged of new at the Mercat-croſs of <hi>Edinburgh,</hi> and in caſe of their diſobedience to the ſaid Charge, to be denounced Rebels at the ſaid Croſs; which denounciation is declared to be as ſufficient, as if the ſame were at the head Burgh of the Shire where the perſon liveth, and that the Horn<g ref="char:EOLhyphen"/>ing be regiſtrat in the Theſaurers Books or Sheriff Books of <hi>Edinburgh.</hi> And ſicklike, by the ſixty fifth Act of the ſaid Parliament, All Chamberlains and other Receivers of His <hi>Majeſties</hi> Rents, as well heretable as moveable, are ordained to find cau<g ref="char:EOLhyphen"/>tion to the Theſaurer in <hi>Edinburgh,</hi> for making compt at the or<g ref="char:EOLhyphen"/>dinar time of Exchequer, and payment within twenty dayes af<g ref="char:EOLhyphen"/>ter the terme. And alſo, by the eighty Act of the ſaid Par<g ref="char:EOLhyphen"/>liament, it is Ordained, that Letters be directed, charging the Sheriffs, under the pain of rebellion; with certification, <hi>&amp;c.</hi> to find caution, Burges Indwellers in <hi>Edinburgh,</hi> that they ſhall yearly make their accompts in Exchequer, and pay all things reſting owing to the King's <hi>Majeſty,</hi> by vertue of their Office. And ſicklike, by the two hundred and thirty Act, Parliament fourteenth, <hi>anno,</hi> one thouſand five hundred and ninety four; not only the foreſaid Act is ratified and approven; but alſo, all Chamberlains, Fewers, Cuſtomers, Bailies of Burroughs, and Sheriffs, and others intromettors with the fore<g ref="char:EOLhyphen"/>ſaids Rents, are ordained to find caution Burgeſſes of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> for yearly compearing and making compt in Exchequer. And ſicklike, by another Act, Parliament fifteen, Act two hun<g ref="char:EOLhyphen"/>dred and ſixty two, for preventing of the prejudice that did then ariſe, through the not timeous payment of the foreſaids Rents, payable out of the High-lands and Iſles, the ſaids Fewers are Ordained to find caution to the Exchequer, for yearly and thank<g ref="char:EOLhyphen"/>full payment of the yearly Rents, Duties and Services due and payable forth of the Lands poſſeſt and occupied by them, or any other in their names; wherein if they failed, their pretended In<g ref="char:EOLhyphen"/>feſtments, and other Rights and Titles they have to any of their Lands, either property or ſuperiority, are declared forfault and null. Which whole Acts of Parliament <hi>reſpective</hi> above-men<g ref="char:EOLhyphen"/>tioned,
+<pb n="22" facs="tcp:174604:12"/>The King's <hi>Majeſty</hi> and Eſtates of Parliament, taking of new to their conſideration; and finding no means could have been more probable and conduceable, for preventing of theſe preju<g ref="char:EOLhyphen"/>dices and obſtructions that have ariſen to His <hi>Majeſties</hi> Affairs, through the not timely payment of His Rents; and that the neglect of the exact putting of the ſaids Acts to execution, hath been the only fountain from whence theſe have ſprung. Therefore, and for preventing of the ſame in the future, the King's <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Par<g ref="char:EOLhyphen"/>liament, doth Revive, Renew, Ratifie and Approve the fore<g ref="char:EOLhyphen"/>ſaids Acts, reſpectively and particularly above-written, of the dates, tenors and contents thereof in all points, in ſo far as the ſame are or may be extended to the payment or ſecuring of His <hi>Majeſties</hi> Rents; and Ordains the ſame to have force, and be punctually obeyed and extended againſt all Chamberlains, Few<g ref="char:EOLhyphen"/>ers, Sheriffs, Stewards of Stewartries, Bailies of Regalities, Bailes of Burroughs, and others lyable in payment of any of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Rents, for finding caution in Exchequer to the Theſaurer principal and Theſaurer-depute, who are hereby required to cauſe charge the foreſaids perſons, particularly above-mentioned, at the Mercat-croſs of <hi>Edinburgh</hi> to compear before them, to the effect above-written; with certification, not only under the pains contained in the reſpective Acts of Parliament, but alſo, in caſe of their diſobedience, to denounce them Rebels at the ſaid Mer<g ref="char:EOLhyphen"/>cat-croſs of <hi>Edinburgh,</hi> and to be regiſtrate in the Theſaurers or general Regiſters of Hornings: Which charge, denounciation and regiſtration <hi>reſpective,</hi> the King's <hi>Majeſty</hi> and Eſtates of Par<g ref="char:EOLhyphen"/>liament Declares to be as ſufficient, to all purpoſes and intents, as if the ſame charge were given to them perſonally at their dwelling-houſes, and the denounciation at the head Burgh of the Shire where they live, and the ſame regiſtrate in the Sheriff Books thereof. And ſick like, His <hi>Majeſty</hi> and Eſtates of Parliament taking to their conſideration, that ſeveral of the ſaids Fewers, charged and de<g ref="char:EOLhyphen"/>nounced for not compearing, compting and paying of their ſaids Duties, do ly under the Proceſs of Horning, apprehending them<g ref="char:EOLhyphen"/>ſelves (from the diſtance of the place) ſecure, both as to their perſons and goods, to the great contempt of His <hi>Majeſties</hi> Royal Authority, ſlighting, contemning and vilipending His <hi>Majeſties</hi> Laws: And His <hi>Majeſty</hi> and Eſtates of Parliament conſidering, by the nature, duty and office of each Sheriff, Stewart and Bai<g ref="char:EOLhyphen"/>lies of Regalities within their reſpective Juriſdictions, they as His <hi>Majeſties</hi> Officers are oblieged, and by ſeveral Acts of Parliament, (<hi>viz.</hi> the 30. <hi>Act</hi> JA. 4. <hi>Par.</hi> 3. <hi>Par.</hi> 6. <hi>Act</hi> 69. <hi>Act</hi> 97. JA. 5. <hi>Par.</hi> 7. <hi>Act</hi> 74. <hi>Par.</hi> 6. JA. 6. <hi>Act</hi> 75. JA. 6. <hi>Par.</hi> 6.) Ordained, to execute His <hi>Majeſties</hi> Laws, and put Letters of Poinding and Caption to execution, take and apprehend the Rebels, uplift their eſtates and compt for the ſame to the Comptroller and The<g ref="char:EOLhyphen"/>ſaurer
+<pb n="23" facs="tcp:174604:12"/>and to cauſe their Clerks give in the Regiſters of Horn<g ref="char:EOLhyphen"/>ings, and to uplift His <hi>Majeſties</hi> retoured Duties, blench Duties, Taxations, and other Duties payable to His <hi>Majeſty,</hi> as not only the ſaids Acts of Parliament, but alſo the ſeveral Rolls of Ex<g ref="char:EOLhyphen"/>chequer bears; Whereby it appears, both by Law, and the nature, and duty of their Office, that they ought to execute His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Letters, and cauſe His <hi>Majeſty</hi> be payed of His Rents by the perſons lyable on payment thereof within their bounds, and that the contemners of His <hi>Majeſties</hi> Authority be duly puni<g ref="char:EOLhyphen"/>ſhed, and His <hi>Majeſties</hi> Laws put to execution by them as His proper Officers. Therefore, the King's <hi>Majeſty</hi> and Eſtates of Parliament Ordains, when any of the foreſaids perſons, for diſ<g ref="char:EOLhyphen"/>obedience to the charges given to them for payment of the Mails, Farmes and Duties, as ſaid is, are denounced Rebels and put to the horn, Letters be directed to charge the Sheriff of the Shire and his Deputes, Stewart of the Stewartry, Baily of the Regali<g ref="char:EOLhyphen"/>ty <hi>reſpective,</hi> within thoſe bounds where the ſaids perſons dwells or lands lyes, to take and apprehend their perſons and put them in warde, ay and while payment be made to the Theſaurer and Theſaurer-depute, or others appointed by them, and an <hi>eque</hi> retired thereof, or to poind and deſtrinzie the readieſt goods and geer, and make ſale of ſo much thereof; and to cauſe His <hi>Majeſties</hi> Theſaurer and Theſaurer-depute, and others appointed by them for that effect, to be compleatly payed of the ſaid ſum charged for, or to inſtruct ſufficient and exact diligence for the ſame, with<g ref="char:EOLhyphen"/>in twenty one dayes next after they be charged: With certifi<g ref="char:EOLhyphen"/>cation, if they failzie, the ſaids twenty one dayes being by-paſt, Letters ſhall be directed to charge them or their reſpective cau<g ref="char:EOLhyphen"/>tioners to make payment thereof themſelves, under the pain of rebellion and putting of them to the horn; and if they failzie, to denounce them rebels, <hi>&amp;c.</hi> in manner above-ſpecified.</p>
+            </div>
+            <div n="15" type="act">
+               <head>
+                  <hi>XV.</hi> ACT concerning Beggars and Vagabonds.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord, conſidering the many lau<g ref="char:EOLhyphen"/>dable Acts of Parliament, made by His <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Royal Predeceſſors for relief of the Poor, and for conſtraining of Beggars, Vagabonds and idle Perſons to take themſelves to lawful Cal<g ref="char:EOLhyphen"/>lings, that they might not be burdenſom and diſ-gracefull to the Kingdom; Eſpecially the ſeventh Act of the ſixth Parliament of His <hi>Majeſties</hi> Royal Grand-father King <hi>James</hi>
+                  <pb n="24" facs="tcp:174604:13"/>the ſixth of happy memory; Ordaining the names of the Poor of ilk Paroch, and ſuch as muſt be neceſſarily ſuſtained by almes, to be taken up, and to tax and ſtint the perſons within the Paroch according to the eſtimation of their ſubſtance, without excep<g ref="char:EOLhyphen"/>tion of perſons, to ſuch weekly charges and contributions, as ſhould be thought ſufficient to ſuſtain the ſaid poor People: And the hundred and ſixty eight Act of the fifteenth Parlia<g ref="char:EOLhyphen"/>ment King <hi>James</hi> the ſixth, Ratifying the former Act; with this addition, That ſtrong Beggars, with their Bairns, be imployed in common Works, and that they ſhall continue ſervants there<g ref="char:EOLhyphen"/>in during their life times. And conſidering the tenth Act of the two and twentieth Parliament of His ſaid Royal Grand<g ref="char:EOLhyphen"/>father King <hi>James</hi> the ſixth, Recommending to all His good Subjects, to take into their ſervice poor and indigent Children, declaring that they ſhall be ſubject to their ſaid Maſters, their Heirs and Aſſignes, in all kind of ſervice that ſhall be enjoyned to them, untill they paſs their age of thirty years compleat, and that they ſhall be ſubject to their Maſters correction and cha<g ref="char:EOLhyphen"/>ſtiſement in all manner of puniſhment (life and torture except<g ref="char:EOLhyphen"/>ed) and that if it ſhall happen, the ſaid perſons to abſent them<g ref="char:EOLhyphen"/>ſelves from their Maſters ſervice without their licence, not on<g ref="char:EOLhyphen"/>ly to be lyable to bodily puniſhment at their Maſters diſcre<g ref="char:EOLhyphen"/>tion, but that all recepters of them ſhall be oblieged to reſtore them to their Maſters, within twenty four hours after they be required, otherwayes, to pay to their ſaid Maſters, ten ſhillings <hi>Scots</hi> for ilk dayes abſence till they be reſtored. And His <hi>Majeſty</hi> conſidering, that the chief cauſe, whereby the foreſaids Acts have proven in-effectual, and that Vagabonds and idle Perſons do yet ſo much abound, hath been, that there were few or no common works then erected in the Kingdom, who might take and imploy the ſaid idle Perſons in their ſervice; and that now, by His <hi>Majeſties</hi> Princely care, common Works for Ma<g ref="char:EOLhyphen"/>nufacturies of divers ſorts, are ſetting up in this Kingdom; Therefore, His <hi>Majeſty,</hi> with advice and conſent of His Eſtates in Parliament, Ratifies and Approves the foreſaids Acts of Par<g ref="char:EOLhyphen"/>liament; with this addition, That it ſhall be leiſum to all Per<g ref="char:EOLhyphen"/>ſons or Societies, who have or ſhall ſet up any Manufacturies within this Kingdom, to ſeize upon and apprehend the perſons of any Vagabonds, who ſhall be found begging, or who being Maſterleſs and out of ſervice, have not wherewith to main<g ref="char:EOLhyphen"/>tain themſelves by their own means or work, and to imploy them for their ſervice as they ſhall ſee ſit, the ſame being done with the advice of the reſpective Magiſtrates of the place where they ſhall be ſeized upon; And Ordains the Paroches where ſuch Vagabonds or idle Perſons, as ſhall be found begging, were born; or in caſe the place of their nativity be not known, the Paroches where they have any reſidence, haunt, or moſt reſort,
+<pb n="25" facs="tcp:174604:13"/>for the ſpace of three years immediately preceeding their being ſo apprehended, who thereby are relieved of the burden of them, to make payment to the Perſons or Societies that ſhall happen to imploy them, of two ſhillings <hi>Scots</hi> money <hi>per diem,</hi> for the firſt year after they be apprehended, and one ſhilling <hi>Scots per diem</hi> for the next three years thereafter; the one half thereof to be payed by the Heretors of the ſeveral Paroches <hi>reſpective,</hi> and the other half thereof to be payed by the Poſſeſſors and Inha<g ref="char:EOLhyphen"/>bitants dwelling upon the ground of each Heretor <hi>reſpective.</hi> Likeas, His <hi>Majeſty,</hi> with advice and conſent foreſaid, Ordains the Heretors of each Paroch, or as many of them as ſhall happen to meet, upon publick intimation, made at the Paroch-kirk upon any Sabbath at the diſſolving of the Church from the firſt Sermon, by any of the Heretors of the Paroch, or by the imployers of the Poor, to make up a ſtent Roll for maintenance of the Poor in their Paroch, who ſhall be employed, as ſaid is, at the rate aforeſaid, the one half thereof to be payed by the Heretors, either conform to the old extent of their Lands within the Paroch, or conform to the va<g ref="char:EOLhyphen"/>luation by which they laſt payed aſſeſsment; or otherwayes as the major part of the Heretors, ſo meeting ſhall agree, Life-renters and Wod-ſetters alwayes being lyable, during their Rights as Heretors; and the other half thereof to be laid upon the Tennents and Poſſeſſors, according to their means and ſubſtance. And in caſe the ſaids Heretors, being required by any Perſon or Society, imploying the Poor as ſaid is, ſhall failzie to make up and deliver a ſtent Roll in manner foreſaid, with power to the Per<g ref="char:EOLhyphen"/>ſons, Society or others intruſted by them, to charge the Here<g ref="char:EOLhyphen"/>tors of each Paroch for the ſum of two ſhillings <hi>Scots per diem,</hi> for each one of their Poor, whereof they ſhall be relieved in manner foreſaid, conform to the old extent or valuation foreſaid, at the option of the perſon or Society imploying, or theſe in<g ref="char:EOLhyphen"/>truſted by them; which ſtent Roll ſhall continue and ſtand for one year after the making up thereof, either by the Heretors, or in caſe of failzie, by the Perſons or Societies imploying the Poor. as ſaid is, and ſhall then be renewed from year to year, during the years above-written. Providing alſo, that the Heretors, in caſe they failzie to make a ſtent Roll, as ſaid is, and be charged conform to the old extent or valuation of their Lands, that they ſhall have relief of the Tennents and Poſſeſſors of their Lands, for the one half of what they ſhall be diſtreſſed for. And His <hi>Majeſty,</hi> with conſent foreſaids, Ordains Letters of Horning to be directed hereupon, at the inſtance of the Perſons or Societies imployers of the Poor, or perſons intruſted by them, againſt the Heretors and others for payment of the ſaid daily allowance for the Poor, or againſt the recepters of them, being ſo imployed, for ten ſhillings <hi>Scots</hi> money <hi>per diem,</hi> upon fifteen dayes only: Pro<g ref="char:EOLhyphen"/>viding alwayes, that after examination of the caſe, the Lords of
+<pb n="26" facs="tcp:174604:14"/>the Privy Council ſhall find cauſe for directing ſuch Letters; And Ordains all Sheriffs, Stewarts, Bailies of Regality, Principality, Magiſtrates of Burroughs, or Juſtices of Peace and their Con<g ref="char:EOLhyphen"/>ſtables, to be aſſiſting in the apprehending of the ſaids Vaga<g ref="char:EOLhyphen"/>bonds, or in the bringing of them back to their ſervice, after they ſhall be employed: And ſtrictly Prohibits and Diſcharges all perſons whatſoever, to oppoſe or hinder the taking or bring<g ref="char:EOLhyphen"/>ing back of them in manner foreſaid <hi>reſpective,</hi> under the pain of deforcement. Likeas, it is hereby Declared, That the Poor ſo imployed ſhall continue in the ſervice of the employers, and under their direction and correction, in manner foreſaid, not only during the ſpace of the maintenance to be payed for them by their Paroches, in manner above-written; but alſo for the ſpace of ſeven years thereafter for meat and cloath only; Declaring alwayes, likeas it is hereby expreſly Declared, that the Burgh of <hi>Air</hi> nor their Inhabitants ſhall no wayes be comprehended here<g ref="char:EOLhyphen"/>in, but are excepted here-from in all points. And recommends to the Lords of the Privy Council, to ſee this Act, and all former Acts of Parliament made againſt ſturdy Beggars and Vagabonds, put to execution, with power to them to ſupply by their order what ſhall be deficient, as to the execution of the ſaids Acts.</p>
+            </div>
+            <div n="16" type="act">
+               <head>
+                  <hi>XVI.</hi> ACT anent the meaſure of Coal.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord conſidering, that ſeveral queſtions and debates do ariſe, betwixt the buyers of Coal, and the Cuſtomers and Re<g ref="char:EOLhyphen"/>ceivers of the Bullion, anent the meaſure of the Chalder, by which the Cuſtom and Bul<g ref="char:EOLhyphen"/>lion impoſed upon the Coal ſhould be paid; Doth therefore, with advice and conſent of His Eſtates of Par<g ref="char:EOLhyphen"/>liament, Statute and Declare, That the rates of Cuſtom and Bul<g ref="char:EOLhyphen"/>lion, impoſed upon the Chalder of Coal, is, and ſhall be under<g ref="char:EOLhyphen"/>ſtood of the <hi>Culroſs</hi>-chalder; and the ſaids rates exacted and paid according to that meaſure allanerly, notwithſtanding of any for<g ref="char:EOLhyphen"/>mer Cuſtom to the contrary.</p>
+            </div>
+            <div n="17" type="act">
+               <pb n="27" facs="tcp:174604:14"/>
+               <head>
+                  <hi>XVII.</hi> ACT anent the Foot-meaſure.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering, that not<g ref="char:EOLhyphen"/>withſtanding by the ancient Laws of the King<g ref="char:EOLhyphen"/>dom, the ell is deſigned to be thirty ſeven inches, yet many uſe inches by which the ell is divided into fourty two inches, and of theſe ſmall inches, make the Foot-meaſure of a ſmaller proportion then it ought to be, to the great preju<g ref="char:EOLhyphen"/>dice of the Lieges; and that the occaſion of this Liberty hath been, becauſe, that hitherto there hath no Standard been ap<g ref="char:EOLhyphen"/>pointed for Foot-meaſures, as well as other meaſures. There<g ref="char:EOLhyphen"/>fore, His <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Parliament, Statutes and Ordains, That from and after the firſt day of <hi>June</hi> next, one thouſand ſix hundred ſixty four, no Work<g ref="char:EOLhyphen"/>man nor other perſon ſhall make uſe of any other Foot-mea<g ref="char:EOLhyphen"/>ſure, then ſuch as conſiſts of twelve of theſe inches, whereof the ell contains thirty ſeven: And that this may be the bet<g ref="char:EOLhyphen"/>ter made practicable to the Lieges, Ordains an exact Standard<g ref="char:EOLhyphen"/>foot to be made by the Magiſtrates of <hi>Edinburgh,</hi> before the firſt of <hi>January,</hi> one thouſand ſix hundred and ſixty four, of Iron or Copper, and preſerved by the City of <hi>Edinbugh</hi> for all time coming. And that all Burghs ſhall have a meaſure made according to it, and hung at their Tolbooth doors or upon their Mercat-croſſes, before the firſt of <hi>March,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty four; and any Burgh that ſhall fail in this, ſhall be lyable to the penalty of one hundred pounds <hi>Scots.</hi> And Ordains, That all Wrights, Glaſiers, Maſons, and all other ſorts of publick Workmen, ſhall work by this Foot-meaſure allanerly, that the Lieges may not be abuſed by variety of meaſures. Providing alwayes, that this do infer no further pri<g ref="char:EOLhyphen"/>viledge to the Burgh of <hi>Edinburgh,</hi> in juſting of the Stan<g ref="char:EOLhyphen"/>dard to the Shires and Burghs within the Kingdom, then the keeping of the ſame; nor to any others that have Standards of the like nature.</p>
+            </div>
+            <div n="18" type="act">
+               <pb n="28" facs="tcp:174604:15"/>
+               <head>
+                  <hi>XVIII.</hi> ACT diſcharging Monday and Saturday Mercats in Royal Burghs.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord conſidering, that there is much oc<g ref="char:EOLhyphen"/>caſion given for profanation of the Lords-day in the Royal Burghs, by keeping their weekly Mercats on Monday and Saturday, and that the ſame may be as conveniently kept on other dayes of the week; Doth therefore, with advice and conſent of His Eſtates in Parliament, Inhibit and Diſcharge, all the Royal Burghs, from keeping any Mercats, in time coming, upon the Monday or Saturday, under the pain of one hundred Merks, to be payed by each of the Royal Burghs for every contravention <hi>reſpective:</hi> And allows them to change and keep their Mercats on other dayes of the week as they have done formerly, ſince the year, one thouſand ſix hundred and fourty four, and that they make time<g ref="char:EOLhyphen"/>ous intimation of the change to the next adjacent Burghs. It being alwayes Declared, that this Act is not to be extended againſt Fleſhers in Royal Burghs, who may keep Mercat of Fleſhes in their reſpective Burghs upon theſe dayes, this Act notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            </div>
+            <div n="19" type="act">
+               <head>
+                  <hi>XIX.</hi> ACT anent Lint-ſeed, Hemp-ſeed and Steel.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament, taking to conſideration, the manifold miſtakes and differences that do and may ariſe, betwixt the Farmers of Exciſe and Merchants, anent the exacting of Exciſe upon Lint-ſeed, Hemp<g ref="char:EOLhyphen"/>ſeed and Steel, which ſeems to be occaſioned becauſe theſe Com<g ref="char:EOLhyphen"/>modities are not particularly excepted, in the Act of the Annuity, from payment of Exciſe: And being certainly informed, that the pre<g ref="char:EOLhyphen"/>ſent Farmers of Exciſe and their Collectors, do require and exact duty of Hemp-ſeed, Lintſeed and Steel, contrary to the meaning of the ſaid Act of Annuity, and of the fourtieth Act of this preſent Parliament, made for encouragement of Manufacturies. There<g ref="char:EOLhyphen"/>fore our Soveraign Lord, with advice and conſent of His Eſtates of Parliament, Doth Declare, all Hemp-ſeed, Lint-ſeed and Steel, to be included in the generality of the proviſo of the ſaid Act of Annuity; as alſo of the ſaid fourtieth Act, whereby all materials for Manufacturies are exempted from Exciſe.</p>
+            </div>
+            <div n="20" type="act">
+               <pb n="29" facs="tcp:174604:15"/>
+               <head>
+                  <hi>XX.</hi> ACT anent Manſes and Glebs, and poinding for Miniſters Stipends.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord, conſidering the great diffi<g ref="char:EOLhyphen"/>culties which often-times the Miniſters of the Goſpel do meet with, in the due payment of their Rents and Stipends; So that they are ſometimes forced to uſe legal execution by poinding, and in ſo doing are neceſſitate to carry the Goods poinded, to be appriſed at the Mer<g ref="char:EOLhyphen"/>cat-croſs of the head Burgh of the Shire, Stewartry, Bailery or Regality, many miles diſtant from the place where the Goods are poinded, to the great prejudice of the party and of the Goods alſo. Therefore, His <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Declares, That it ſhall be ſufficient to the Miniſters foreſaid, in poinding, appriſing and deſtrenzying the Goods of the perſons deficient in payment of their Rents and Stipends, to compriſe the ſaids Goods, by honeſt ſworn men, upon the ground of the Lands and place where the Goods are, which ſhall be as ſufficient, as the ſame were done at the ſaids Mercat-croſſes. And becauſe, notwithſtanding of divers Acts of Par<g ref="char:EOLhyphen"/>liament made of before, divers Miniſters are not yet ſufficiently provided with Manſes and Glebs, and others do not get their Manſes free at their entry: Therefore, our Soveraign Lord, with advice foreſaid, Satutes and Ordains, That where competent Manſes are not already built, the Heretors of the Paroach, at the ſight of the Biſhop of the Dioceſs, or ſuch Miniſters as he ſhall appoint, with two or three of the moſt knowing and diſ<g ref="char:EOLhyphen"/>creet men of the Paroach, build competent Manſes to their Mi<g ref="char:EOLhyphen"/>niſter, the expences thereof not exceeding one thouſand pounds, and not being beneath five hundred Merks: And where compe<g ref="char:EOLhyphen"/>tent Manſes are already built, Ordains the Heretors of the Pa<g ref="char:EOLhyphen"/>roch to relieve the Miniſter and his Executors of all coſt, charges and expences, for repairing of the foreſaid Manſes; De<g ref="char:EOLhyphen"/>claring hereby, that the Manſes being once built and repaired, and the building or repairing ſatisfied and payed by the Here<g ref="char:EOLhyphen"/>tors in maner foreſaid, the ſaids Manſes ſhall thereafter be up<g ref="char:EOLhyphen"/>holden by the incumbent Miniſters during their poſſeſſion, and by the Heretors in time of vacancy, out of the readieſt of the vacand Stipend. In like-maner Ordains, that every Miniſter have fewel, foggage, feal and devots, according to the Act of Parlia<g ref="char:EOLhyphen"/>ment, made in <hi>anno,</hi> one thouſand five hundred and ninety three.
+<pb n="30" facs="tcp:174604:16"/>As alſo, that every Miniſter (except ſuch Miniſters of Royal Bur<g ref="char:EOLhyphen"/>roughs, who have not right to Glebs) have graſs for one horſe and two kine, over and above their Gleb, to be deſigned out of Kirk-lands, and with relief according to the former Acts of Par<g ref="char:EOLhyphen"/>liament ſtanding in force; And if there be no Kirk-lands lying near the Miniſters Manſe, out of which the graſs for one horſe and two kine may be deſigned, or otherwayes, if the ſaids Kirk-lands be arable Land, in either of theſe caſes, Ordains the Heretors to pay to the Miniſter and his Succeſſors yearly, the ſum of twen<g ref="char:EOLhyphen"/>ty pounds <hi>Scots,</hi> for the ſaid graſs for one horſe and two kine, the Heretors alwayes being relieved according to the Law ſtanding, of other Heretors of Kirk-lands in the ſaid Paroch. And becauſe ſeveral Kirks have no Glebs as yet deſigned to them, it is here<g ref="char:EOLhyphen"/>by ſpecially provided, that in all deſignations of Glebs, Incorpo<g ref="char:EOLhyphen"/>rat-acers, in Village or Town where the Heretor hath houſes and gardens, the ſame ſhall not be deſigned, he alwayes giving other Lands neareſt to the Kirk. And His <hi>Majeſty,</hi> with advice fore<g ref="char:EOLhyphen"/>ſaid, for ſpecial cauſes and conſiderations, Declares, that this pre<g ref="char:EOLhyphen"/>ſent Act, as to the Manſes, is to have force, as the ſame had been made and dated the fourteenth of <hi>March,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and fourty nine.</p>
+            </div>
+            <div n="21" type="act">
+               <head>
+                  <hi>XXI.</hi> ACT anent compriſings.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord, conſidering, that ſince the firſt day of <hi>January,</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred and fifty two, before the making of the ſixty two Act of the firſt Seſſion of this Parliament, enti<g ref="char:EOLhyphen"/>tuled, <hi>Act for ordering the paiment of Debts betwixt Creditor and Debitor,</hi> di<g ref="char:EOLhyphen"/>vers perſons, having right by poſterior Compriſings to the legal reverſion of the firſt Compriſing deduced of their Debitors Eſtate, have, according to the Law then in force, re<g ref="char:EOLhyphen"/>deemed or ſatisfied the firſt Compriſing, and acquired the right thereof for their own better ſecurity, leſt the legal reverſion of the firſt Compriſing ſhould have expired to their prejudice. And whereas, by an Clauſe of the foreſaid Act of Parliament, it is Ordained, That all Compriſings, led ſince the ſaid firſt day of <hi>January,</hi> one thouſand ſix hundred and fifty two, within year and day of the firſt effectual Compriſing, ſhall come in <hi>pari paſſu</hi> to<g ref="char:EOLhyphen"/>gether,
+<pb n="31" facs="tcp:174604:16"/>in maner, and upon the proviſions, mentioned in the ſaid Act: Which Clauſe, as it is moſt juſt as to all Compriſings led, and ſtanding un-redeemed and un-ſatisfied by the ſubſequent Compriſers having right to the legal reverſion; So it were un<g ref="char:EOLhyphen"/>juſt to prejudge thoſe, who, for their own ſecurity, have redeemed or ſatisfied the firſt Compriſing, as ſaid is, according to the Law then ſtanding. Therefore, His <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Declares, That albeit the foreſaid Act was made <hi>ad praeterita,</hi> to regulate the diligence uſed by Com<g ref="char:EOLhyphen"/>priſings at the inſtance of the Creditors: Yet, it was no wayes their meaning to prejudge poſterior Compriſers, who, <hi>bona ſide,</hi> for their own ſecurity, and for preventing the hazard of the ex<g ref="char:EOLhyphen"/>piration of the legal reverſion of the firſt Compriſing, did re<g ref="char:EOLhyphen"/>deem or ſatisfie the ſame; And therefore it is Statute and Or<g ref="char:EOLhyphen"/>dained, That the ſaids ſecond Compriſers ſhall no wayes be pre<g ref="char:EOLhyphen"/>judged of the right of the foreſaid firſt Compriſing, redeemed and ſatisfied by them; Declaring nevertheleſs, that as to the ſecond or poſterior Compriſing, ſtanding in the parties perſon who ſatisfied the firſt, the ſame ſhall only come in with the reſt of the Compriſers, <hi>pari paſſu,</hi> as it is provided by the fore<g ref="char:EOLhyphen"/>ſaid Act. As likewayes Declaring, That theſe preſents be no wayes extended to any Compriſings ſatisfied by the ſecond Com<g ref="char:EOLhyphen"/>priſers, ſince the making of the foreſaid Act of Parliament, or to be ſatisfied in time coming.</p>
+            </div>
+            <div n="22" type="act">
+               <head>
+                  <hi>XXII.</hi> ACT anent Sentences of Excommunication.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord conſidering, that the pro<g ref="char:EOLhyphen"/>viſo in the twenty fifth Act of the firſt Seſ<g ref="char:EOLhyphen"/>ſion of Parliament, entituled, <hi>Act for denounce<g ref="char:EOLhyphen"/>ing of excommunicate perſons,</hi> anent the exhi<g ref="char:EOLhyphen"/>biting the Proceſs and Sentence of excommu<g ref="char:EOLhyphen"/>nication before the Lords of Seſſion, to the end they might conſider the legality of the Proceſs, and grounds whereupon the Sentence proceeded, before any Letters of de<g ref="char:EOLhyphen"/>nunciation ſhould paſs againſt excommunicat perſons, was con<g ref="char:EOLhyphen"/>cluded before the reſtauration of the Biſhops, and is prejudi<g ref="char:EOLhyphen"/>cial and derogatory to the juriſdiction of Eccleſiaſtical Authority, as it is now eſtabliſhed; Doth therefore, with advice and conſent of His Eſtates of Parliament, Retreat and Reſcind the ſaid pro<g ref="char:EOLhyphen"/>viſo, and Declares the ſame to be void and null.</p>
+            </div>
+            <div n="23" type="act">
+               <pb n="32" facs="tcp:174604:17"/>
+               <head>
+                  <hi>XXIII.</hi> ACT for additional proviſion in favours of the <g ref="char:V">Ʋ</g>niverſities.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord, and the Eſtates of Parliament, taking into ſerious con<g ref="char:EOLhyphen"/>ſideration, the condition of the ſeveral Univerſities of this Kingdom; And finding, that the preſent mean and in<g ref="char:EOLhyphen"/>competent proviſion of the Maſters and Profeſſors thereof, is ſo prejudi<g ref="char:EOLhyphen"/>cial to the flouriſhing of theſe Semi<g ref="char:EOLhyphen"/>naries of Church and State, that un<g ref="char:EOLhyphen"/>leſs ſome conſiderable Augmentation be ſetled upon them for their encouragment, the ableſt and fitteſt perſons of ingenious ſpirits and education, will ſhun and avoid the undertaking of Functions in Univerſities, for want of ſuch in<g ref="char:EOLhyphen"/>genuous means as ſhould invite, entertain, encourage and obliege men ſufficient for ſuch laborious imployments, to the great de<g ref="char:EOLhyphen"/>cay of Learning, and detriment of all ranks of Perſons in the Kingdom: For preventing and remeeding whereof, there be<g ref="char:EOLhyphen"/>ing an expedient propoſed, that the Archbiſhops and Biſhops, and the reſt of the inferiour Clergy, may allow ſome part yearly of their Rents, Benefices and Maintenance, for the ſpace of five years to come, as an exemplary teſtimony of their piety and zeal, for the advancement of Learning and Religion. Therefore, His <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Doth Statute and Ordain, That for the cropts and years, one thouſand ſix hundred and ſixty four, one thouſand ſix hundred and ſixty five, one thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ſixty ſix, one thouſand ſix hundred and ſixty ſeven, and one thouſand ſix hundred and ſixty eight, there be raiſed yearly, out of the Rents of ilk Archbiſhop and Biſhop, the ſum of fifty pounds for every thouſand merks of the ſaid Revenues, and the ſum of fourty pounds out of every thouſand merks of the Sti<g ref="char:EOLhyphen"/>pends or Benefices of every Miniſter, and ſo proportionable ſix of the hundred, as the Benefice or Stipend ſhall be valued to be more or leſs by the Biſhops of the Dioceſſes; And that the ſaids ſe<g ref="char:EOLhyphen"/>veral proportions, payable by the Biſhops, ſhall be yearly given in to the Archbiſhops of the reſpective Provinces, or ſuch as ſhall have warrand from them; and that the ſaids ſeveral pro<g ref="char:EOLhyphen"/>portions, payable by Miniſters, ſhall be yearly given in to the Biſhops of the reſpective Dioceſs, or ſuch as ſhall have warrand from them, and for whom the ſaids Biſhops ſhall be countable:
+<pb n="33" facs="tcp:174604:17"/>Which ſums ſo to be raiſed, ſhall be diſtributed to the ſeveral Uni<g ref="char:EOLhyphen"/>verſities, according to thoſe proportions which ſhall be aſſigned by His <hi>Majeſty,</hi> by a Committee to ſit at <hi>Edinburgh,</hi> conſiſt<g ref="char:EOLhyphen"/>ing of the Archbiſhops of <hi>St. Andrews</hi> and <hi>Glaſgow,</hi> and the Bi<g ref="char:EOLhyphen"/>ſhops of <hi>Edinburgh</hi> and <hi>Aberdeen,</hi> and four others, whereof one to be nominate by the Viſitors of the Univerſity of <hi>St. Andrews,</hi> and another by the Viſitors of the Univerſity of <hi>Glaſgow,</hi> the third by the Viſitors of <hi>Aberdeen,</hi> the fourth by the Council of <hi>Edinburgh;</hi> Hereby authorizing the Archbiſhop of <hi>St. Andrews,</hi> and in his abſence the Archbiſhop of <hi>Glaſgow,</hi> to preſide in the ſaid Committee, and to appoint their diets of meeting from time to time; and the Committee to take care, that the ſums thus allotted, ſhall be put into a Stock and ſetled upon Land or other<g ref="char:EOLhyphen"/>wayes, by advice of the reſpective Biſhops, who are Chancellors of the ſaids Univerſities; and Ordains the Annual-rent of the ſaid Stock to be proportioned to the Maſters and Profeſſors of each Univerſity, as the Viſitors thereof ſhall appoint. And fur<g ref="char:EOLhyphen"/>ther, His <hi>Majeſty</hi> and Eſtates foreſaid, do Ordain, that Stipends, and all Benefices of Kirks that ſhall vaik after the firſt day of <hi>February,</hi> in this following year of God, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty four, for the ſpace of ſeven years next there-after, ſhall be up lifed by</p>
+               <p>Collector thereof, and imployed by him in the maner, and accor<g ref="char:EOLhyphen"/>ding to the proportions above-ſpecified, for encreaſing of the Stock of each Univerſity: Declaring, that the fifty two Act of the firſt Seſſion of this Parliament, <hi>Concerning the diſpoſal of vacand Stipends,</hi> ſhall be of no force during the ſpace of the years foreſaid; And Ordains Letters of Horning and Poinding, and all other execution neceſſary, to be directed at the inſtance of the ſaids Biſhops, or any to be appointed by them; and at the inſtance of the ſaid Collector, for the more ſpeedy in-bringing of the ſums <hi>reſpective</hi> above-mentioned. Further, His <hi>Majeſty</hi> and the Eſtates of Parliament, do recommend to the Lords of the Privy Council, to entertain and promote any voluntary offer or con<g ref="char:EOLhyphen"/>tribution, for the ends aforeſaid, to be made by Noble-men or Gentelemen, for a work ſo worthy of the publick wiſdom, piety and honour of this Kingdom. It is alwayes Declared, that this Act ſhall be without prejudice of Acts paſt in this Parliament, for allowing the vacand Stipends of the Dioceſs of <hi>Iſles</hi> and <hi>Ar<g ref="char:EOLhyphen"/>gyl</hi> for breeding of young Schollars, the ſum being regulate by the Committee above-named; and that this Act ſhall be no pre<g ref="char:EOLhyphen"/>parative for laying on any burdens on the Clergy hereafter, with<g ref="char:EOLhyphen"/>out their own conſent.</p>
+            </div>
+            <div n="24" type="act">
+               <pb n="34" facs="tcp:174604:18"/>
+               <head>
+                  <hi>XXIV.</hi> ACT regulating the proportions of Exciſe in the ſeveral Shires and Burghs.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament, taking to their conſideration, the grievances repreſented to them by ſeveral Shires and Burghs, anent the exceſſive proportions of Ex<g ref="char:EOLhyphen"/>ciſe laid upon them by the late Act of Parliament, and what great burthen the Land-rent of the ſaids Shires and Burghs lyes under, for making up the ſaids pro<g ref="char:EOLhyphen"/>portions, and the great eaſe which ſe<g ref="char:EOLhyphen"/>veral other Shires have in their proportions; And it being juſt and reaſonable, that all publick impoſitions of that nature, ſhould be equally diſtributed upon thoſe lyable in payment thereof. There<g ref="char:EOLhyphen"/>fore, the King's <hi>Majeſty,</hi> with advice and conſent of the Eſtates of Parliament, Statutes and Ordains, that the ſeveral Shires and Burghs of this Kingdom, ſhall, for the moneths of <hi>November</hi> and <hi>December</hi> next, one thouſand ſix hundred and ſixty three, and <hi>January,</hi> one thouſand ſix hundred and ſixty four years, and in all time thereafter, be lyable in the monethly payment of the re<g ref="char:EOLhyphen"/>ſpective proportions under-written, <hi>viz.</hi> The Shire of <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> principal, in the ſum of two thouſand one hundred and fourty pounds <hi>Scots</hi> money; The Town of <hi>Edinburgh,</hi> in the ſum of two thouſand nine hundred thirty two pounds; The Shire of <hi>Haddingtoun,</hi> in the ſum of one thouſand two hundred fourſcore and eleven pounds; The Shire of <hi>Berwick,</hi> in the ſum of ſix hundred and ten pounds ſixteen ſhillings; The Shire of <hi>Roxburgh,</hi> in the ſum of ſeven hundred threeſcore twelve pounds ſixteen ſhillings; The Shire of <hi>Selkirk,</hi> in the ſum of one hundred fourty ſeven pounds ten ſhillings; The Shire of <hi>Peebles,</hi> in the ſum of one hundred thirty ſeven pounds ten ſhillings; The Shire of <hi>La<g ref="char:EOLhyphen"/>nerick,</hi> in the ſum of nine hundred threeſcore eight pounds eight ſhillings; The Town of <hi>Glaſgow,</hi> in the ſum of one thouſand threeſcore ſixteen pounds four ſhillings; The Shire of <hi>Dumfrieſe,</hi> in the ſum of ſix hundred fifty ſix pounds; The Shire of <hi>Wig<g ref="char:EOLhyphen"/>toun</hi> and <hi>Kirkcudburgh,</hi> in the ſum of ſeven hundred thirty two pounds twelve ſhillings, whereof the Stewartry of <hi>Kirkcudburgh</hi> is to pay the ſum of four hundred threeſcore one pounds, and the Shire of <hi>Wigtoun</hi> the ſum of two hundred threeſcore eleven pounds twelve ſhillings; The Shire of <hi>Air,</hi> in the ſum of one
+<pb n="35" facs="tcp:174604:18"/>thouſand ſix hundred thirty nine pounds ſixteen ſhillings; The Shire of <hi>Dumbartoun,</hi> in the ſum of two hundred fifty four pounds; The Shire of <hi>Bute,</hi> in the ſum of fifty ſeven pounds; The Shire of <hi>Renfrew,</hi> in the ſum of four hundred fifty ſeven pounds four ſhillings; The Shire of <hi>Stirling,</hi> in the ſum of nine hundred and threeſcore pounds eight ſhillings; The Shire of <hi>Linlithgow,</hi> in the ſum of ſeven hundred fourſcore nine<g ref="char:EOLhyphen"/>teen pounds four ſhillings; The Shire of <hi>Perth,</hi> in the ſum of two thouſand three hundred threeſcore fourteen pounds ſix<g ref="char:EOLhyphen"/>teen ſhillings; The Shire of <hi>Kincardin,</hi> in the ſum of three hun<g ref="char:EOLhyphen"/>dred threeſcore three pounds twelve ſhillings; The Shire of <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> in the ſum of two thouſand four hundred and eighteen pounds nineteen ſhillings; The Shire of <hi>Bamff,</hi> in the ſum of four hundred fourty ſeven pounds three ſhillings; The Shire of <hi>Innerneſs,</hi> in the ſum of ſeven hundred fourſcore fourteen pounds eight ſhillings; The Shires of <hi>Elgin</hi> and <hi>Nairn,</hi> in the ſum of five hundred fourſcore ſixteen pounds four ſhillings; The Shire of <hi>Cromarty,</hi> in the ſum of twenty four pounds; The Shire of <hi>Argyl,</hi> in the ſum of four hundred fourty three pounds ſixteen ſhillings; The Shire of <hi>Fife</hi> and <hi>Kinroſs,</hi> in the ſum of three thouſand ſix hundred and eight pounds eight ſhillings; The Shire of <hi>Forfar,</hi> in the ſum of one thouſand twenty four pounds four ſhillings; The Town of <hi>Dundee,</hi> in the ſum of ſeven hundred and eighteen pounds four ſhillings; The Shire of <hi>Sutherland,</hi> in the ſum of threeſcore twelve pounds twelve ſhillings; The Shire of <hi>Caithneſs,</hi> in the ſum of one hundred fifty three pounds four ſhillings; The Shire of <hi>Orknay</hi> and <hi>Zetland,</hi> in the ſum of two hundred fourty three pounds ſixteen ſhillings; The Shire of <hi>Clackmannan,</hi> in the ſum of two hundred and ſix pounds two ſhillings; And the Shire of <hi>Roſs,</hi> in the ſum of two hun<g ref="char:EOLhyphen"/>dred and four pounds, money foreſaid; Any thing in the ſaid Act of Parliament to the contrary notwithſtanding, which is hereby Declared to be of no force or effect, as to the pro<g ref="char:EOLhyphen"/>portions of the ſaid Exciſe, after the ſaid firſt day of <hi>November</hi> next.</p>
+            </div>
+            <div n="25" type="act">
+               <pb n="36" facs="tcp:174604:19"/>
+               <head>
+                  <hi>XXV.</hi> An humble Tender to His Sacred <hi>Majeſty,</hi> of the duty and loyalty of His ancient King<g ref="char:EOLhyphen"/>dom of <hi>Scotland.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch, as the Eſtates of Parliament, upon con<g ref="char:EOLhyphen"/>ſideration of the great bleſſings this Kingdom enjoyeth, under the protection of His <hi>Majeſties</hi> Authority and the adminiſtrations of His Royal Government; being thereby not only deliver<g ref="char:EOLhyphen"/>ed from their former troubles, and all the evils which attend ſuch uſurpations, but being fully reſtored to, and poſ<g ref="char:EOLhyphen"/>ſeſt of, all the liberties and priviledges of a free people; Have, by their ſeveral addreſſes to His Sacred <hi>Majeſty,</hi> made offer of their lives and fortunes, and all that is deareſt to them, for the advancement of His Royal Honour, Authority and Greatneſs. And this Kingdom being ſtill more and more ſenſible of this their happineſs, by the often and renewed expreſſions of His <hi>Majeſties</hi> grace and favour, and of His tenderneſs and care of their perſervation, in the peaceable and ſecure enjoyment of their Religion, Laws, Liberties and Properties; Do find themſelves the more oblieged to renew the expreſſions of their duty and loyalty to His <hi>Majeſty.</hi> And therefore, the Eſtates of Parliament, of this His <hi>Majeſties</hi> an<g ref="char:EOLhyphen"/>cient Kingdom of <hi>Scotland,</hi> do, in name and behalf of all His <hi>Majeſties</hi> good Subjects within the ſame, by theſe preſents, re<g ref="char:EOLhyphen"/>new the dutifull tender of their lives and fortunes, for the pro<g ref="char:EOLhyphen"/>moving of His <hi>Majeſties</hi> Service and the advancement of His Royal Authority. And as they do chearfully recognoſce His <hi>Majeſties</hi> Royal Prerogative and undoubted Right, of the ſole power of raiſing, arming and commanding of His Subjects; So, in a further acknowledgement of their duty, they do make humble and hearty offer to His <hi>Majeſty,</hi> of twenty thouſand Foot-men and two thouſand Horſe-men, ſufficiently armed, and furniſhed with fourty dayes proviſion, to be raiſed from the ſeveral Shires of the Kingdom, according to the proportions following, <hi>viz.</hi> From the Shires of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> one thouſand three hundred thirty three Foot, and one hundred fourty eight Horſe. From the Shire of <hi>Berwick,</hi> eight hundred Foot, and ſeventy four Horſe. From the Shire of <hi>Edinburgh,</hi> eight hundred Foot, and ſeventy four Horſe. From the Shire of <hi>Haddingtoun,</hi> eight hundred Foot, and ſeventy four Horſe. From the Shire of <hi>Peebles,</hi> two hundred ſixty ſix Foot, and twenty nine Horſe. From the Shire of <hi>Linlithgow,</hi> three hundred thirty three Foot,
+<pb n="37" facs="tcp:174604:19"/>and fourty two Horſe. From the Burgh of <hi>Edinburgh, Lieth</hi> and <hi>Canongate,</hi> eight hundred Foot. From the Shire of <hi>Dum<g ref="char:EOLhyphen"/>fries,</hi> eight hundred Foot, and eighty eight Horſe. From the Shire of <hi>Wigtoun,</hi> eight hundred Foot, and eighty eight Horſe. From the Shires of <hi>Air</hi> and <hi>Renfrew,</hi> one thouſand three hun<g ref="char:EOLhyphen"/>dred thirty three Foot, and one hundred ſeventy ſix Horſe. From the Shire of <hi>Lanerick,</hi> one thouſand Foot, and one hun<g ref="char:EOLhyphen"/>dred fourty eight Horſe. From the Shires of <hi>Stirling</hi> and <hi>Clack<g ref="char:EOLhyphen"/>mannan,</hi> ſix hundred ſixty ſix Foot, and eighty eight Horſe. From the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> one thouſand ſix hundred Foot, and one hundred ſeventy ſix Horſe. From the Shire of <hi>Perth,</hi> one thouſand ſix hundred Foot, and one hundred ſeventy ſix Horſe. From the Shire of <hi>Forfar,</hi> one thouſand Foot, and one hundred and three Horſe. From the Shire of <hi>Kincardin</hi> and <hi>Mar<g ref="char:EOLhyphen"/>ſhals</hi> part of <hi>Aberdeen,</hi> eight hundred Foot, and ſeventy four Horſe. From the reſt of <hi>Aberdeen</hi> and Shire of <hi>Bamff,</hi> one thouſand ſixty ſix Foot and one hundred ſeventy ſix Horſe. From the Shires of <hi>Elgin, Nairn,</hi> and this ſide of <hi>Neſs,</hi> one thouſand Foot, and eighty eight Horſe. From the Earl of <hi>Seafort</hi> and Lord <hi>Lovat,</hi> their diviſion of <hi>Innerneſs,</hi> ſix hundred ſixty ſix Foot, and eighty eight Horſe. From the Shires of <hi>Sutherland</hi> and <hi>Caithneſs,</hi> and the reſt of <hi>Inner<g ref="char:EOLhyphen"/>neſs,</hi> one thouſand ſixty ſix Foot, and eighty eight Horſe. From the Shires of <hi>Argyl, Dumbartoun</hi> and <hi>Bute,</hi> eight hundred Foot. From the Shire of <hi>Orknay,</hi> ſix hundred ſixty ſix Foot. Which For<g ref="char:EOLhyphen"/>ces are to be in readineſs, as they ſhall be called for by His <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> to march to any part of His Dominions of <hi>Scotland, Eng<g ref="char:EOLhyphen"/>land</hi> or <hi>Irland,</hi> for ſuppreſſing of any forreign invaſion, inteſtine trouble or inſurrection, or for any other ſervice, wherein His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Honour, Authority or Greatneſs may be concerned. And for the better proſecution hereof, the Eſtates of Parliament do humbly entreat, His <hi>Majeſty</hi> may be graciouſly pleaſed to give Commiſſions to ſuch perſons to be general Officers, Colonels, Lieutenant colonels, Majors and Rute-maſters, as His <hi>Majeſty</hi> in His Royal judgment, ſhall think ſit; and for the other Officers, or any other thing fitting to be done for perfecting of the Levies and carrying on of this buſineſs, they do humbly recommend to His <hi>Majeſty,</hi> to give His direction therein to His Privy Council, who are hereby impowered with Commiſſion and Authority, for the ordering, diſpoſing and ſole managing of this Affair, in ſuch a way, as this dutifull offer of the Parliament of His <hi>Majeſty</hi> may be made moſt effectual, and according to the inſtructions and com<g ref="char:EOLhyphen"/>mands they ſhall receive from His <hi>Majeſty.</hi> And the Eſtates of Parliament do Declare, that if His <hi>Majeſty</hi> ſhall have further uſe of their ſervice, this Kingdom will be ready, every man betwixt ſixty and ſixteen, to joyn and hazard their lives and fortunes, as they ſhall be called for by His <hi>Majeſty,</hi> for the ſafety and preſer<g ref="char:EOLhyphen"/>vation of His ſacred Perſon, Authority and Government.</p>
+            </div>
+            <div n="26" type="act">
+               <pb n="38" facs="tcp:174604:20"/>
+               <head>
+                  <hi>XXVI.</hi> ACT aſſerting His <hi>Majeſties</hi> Prerogative in the ordering and diſpoſal of Trade with forraigners.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Eſtates of Parliament conſidering, that during the late troubles, divers invaſions were made upon the Royal Prerogatives of the Crown; and that in a juſt abhor<g ref="char:EOLhyphen"/>rence thereof, and in a due ſenſe of the happineſs they enjoy under His <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Government, they are oblieged in all occaſions to vindicate and aſſert the ſame, in the ſeveral branches thereof: And ſince the ordering and diſpoſal of Trade with forraign Coun<g ref="char:EOLhyphen"/>tries, and the laying of reſtraints and impoſitions upon forraign imported Merchandizes, is, by the Law of Nations, acknow<g ref="char:EOLhyphen"/>ledged to be proper to, and inherent in, the perſons of all free Princes, as an undoubted Prerogative of the Crown. They therefore, in a dutifull and humble recognizance of His <hi>Majeſties</hi> Prerogative-royal, do Declare, That the ordering and diſpoſal of Trade with forraign Nations, and the laying of reſtraints and im<g ref="char:EOLhyphen"/>poſitions upon forraign imported Commodities, doth belong to His <hi>Majeſty</hi> and His Succeſſours, as an undoubted Priviledge and Prerogative of the Crown; and that by vertue thereof, they may lay ſuch impoſitions and reſtraints upon imported forraign Commodities, and ſo order and diſpoſe upon the Trade of them, as they ſhall judge fit for the good of the Kingdom. Likeas, the King's <hi>Majeſty,</hi> with advice and conſent of His Eſtates in Par<g ref="char:EOLhyphen"/>liament, doth hereby Reſcind and Annull all Acts, Statutes, Con<g ref="char:EOLhyphen"/>ſtitutions and Cuſtoms to the contrary; and Declares the ſame void and null in all time coming.</p>
+            </div>
+            <div n="27" type="act">
+               <pb n="39" facs="tcp:174604:20"/>
+               <head>
+                  <hi>XXVII.</hi> COMMISSION for the plantation of Kirks and valuation of Teinds.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He King's moſt Excellent <hi>Majeſty,</hi> being deſirous to proſecute the work of valuation of Teinds and plantation of Kirks, in reference to His own intereſt for the annuity, and the univerſal good of His people, eſpecially for the incouragement of the Miniſters of the Goſpel; Doth, with advice and conſent of His Eſtates of Parliament, Ratifie and Ap<g ref="char:EOLhyphen"/>prove the nineteenth Act of the Parliament, holden at <hi>Edinburgh</hi> by His Royal Father of bleſſed memory, in <hi>anno,</hi> one thouſand ſix hundred and thirty three, (entituled, <hi>Commiſsion for valuation of Teinds,</hi>) in the whole heads, clauſes and conditions thereof, except in ſo far as there hath been any alterations made therein, by Acts and Commiſſions made and granted by His <hi>Majeſty</hi> ſince the date of the ſaid Act, or granted by any pretended Parliaments ſince, and which are Ratified, Salved or Reſerved by this preſent Parliament; and which alterations are not deſtructive of, and con<g ref="char:EOLhyphen"/>trary to, this preſent Act, or any clauſe thereof. And ſicklike, Ra<g ref="char:EOLhyphen"/>tifies and Approves the ſixty one Act of the firſt Seſſion of this pre<g ref="char:EOLhyphen"/>ſent Parliament, entituled, <hi>Commiſsion for plantation of Kirks,</hi> &amp;c. in the whole Heads, Articles and Clauſes thereof, except in ſo far as the ſame may be contrary to this preſent Act, as ſaid is. And His <hi>Majeſty,</hi> with advice and conſent foreſaid, gives full power and commiſſion to <hi>James</hi> Archbiſhop of <hi>St. Andrews; William</hi> Earl of <hi>Glen<g ref="char:EOLhyphen"/>cairn,</hi> Chancellor; <hi>John</hi> Earl of <hi>Rothes,</hi> Theſaurer; <hi>Alexander</hi> Archbiſhop of <hi>Glaſgow; William</hi> Earl <hi>Marſhal,</hi> Privy-Seal; Duke of <hi>Hamiltoun;</hi> Marqueſs of <hi>Montroſe;</hi> Earl of <hi>Landerdail,</hi> Secretary; Earl of <hi>Eglinton;</hi> Earl of <hi>Linlithgow;</hi> Earl of <hi>Kelly;</hi> Earl of <hi>Haddington;</hi> Earl of <hi>Annan<g ref="char:EOLhyphen"/>dail;</hi> Earl of <hi>Leiven;</hi> Earl of <hi>Tweddail; George</hi> Biſhop of <hi>Edinburgh; Iames</hi> Biſhop of <hi>Galloway; George</hi> Biſhop of <hi>Dunkell;</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Biſhop of <hi>Aberdeen; Iohn</hi> Biſhop of <hi>Roſs; Robert</hi> Biſhop of <hi>Dumblane;</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Biſhop of <hi>Orknay; William</hi> Lord <hi>Bellenden,</hi> Theſaurer-depute; Sir <hi>Iohn Gilmore,</hi> Preſident of the Seſſion; Sir <hi>Archibald Primroſe,</hi> Clerk Regiſter; His <hi>Majeſties</hi> Advocat; Sir <hi>Iohn Home</hi> of <hi>Renton,</hi> Juſtice Clerk; Sir <hi>Iames Lockart</hi> of <hi>Lee;</hi> Sir <hi>Iohn Scougal</hi> of <hi>Whitkirk; Charles Mait<g ref="char:EOLhyphen"/>land</hi> of <hi>Halton;</hi> Sir <hi>Thomas Hamiltoun</hi> of <hi>Preſton;</hi> Sir <hi>Iohn Wachop</hi> of <hi>Nidrie;</hi> Sir <hi>Robert Fletcher</hi> of <hi>Salton;</hi> Sir <hi>Henry Wardlaw</hi> of <hi>Pitrevy; William Scot</hi> of <hi>Ardroſs;</hi> Sir <hi>Andrew Ramſay,</hi> Provoſt of <hi>Edin<g ref="char:EOLhyphen"/>burgh;</hi> Sir <hi>Robert Murray</hi> there; Sir <hi>Archibald Sydſerf;</hi> Sir <hi>Alex<g ref="char:EOLhyphen"/>ander Wedderburne;</hi> Sir <hi>William Thomſon; John Miln; Robert Lentron,</hi> Provoſt of <hi>St. Andrews;</hi> Mr. <hi>John Paterſon,</hi> Provoſt of <hi>Perth; Wil<g ref="char:EOLhyphen"/>liam Seatoun,</hi> Provoſt of <hi>Haddington;</hi> or any fifteen of them; where<g ref="char:EOLhyphen"/>of
+<pb n="40" facs="tcp:174604:21"/>three of the Clergy, three of the Nobility, three Officers of State, three Commiſſioners of Shires, and three of Burghs; of which number, the Archbiſhop of <hi>St. Andrews,</hi> or the Chan<g ref="char:EOLhyphen"/>cellor, or the Theſaurer, or the Archbiſhop of <hi>Glaſgow,</hi> or the Pri<g ref="char:EOLhyphen"/>vy. Seal, or the Secretary, or the Duke of <hi>Hamiltoun,</hi> or the Earl of <hi>Haddingtoun,</hi> or any of them, being alwayes one, to meet and con<g ref="char:EOLhyphen"/>veen at <hi>Edinburgh,</hi> the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> one thouſand ſix hundred and ſixty <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> years; and at ſuch other place or places, times and diets as they ſhall appoint, to value, and cauſe be valued, whatſoever Tends, great or ſmall, Perſonage or Vi<g ref="char:EOLhyphen"/>carage, of whatſoever Lands within this Kingdom, lyable to the paiment of Teinds, which are yet un-valued; Excepting al<g ref="char:EOLhyphen"/>wayes the Teithes of the Archbiſhops, Biſhops and other bene<g ref="char:EOLhyphen"/>ficed perſons, whereof they were in real and actual poſſeſſion, by leading and collecting the ſame, in the year, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and twenty eight; and with proviſion, that they be not prejudged of the Fruits and Rents of their ſeveral Benefices, as the ſame was poſſeſt by them, <hi>anno,</hi> one thouſand ſix hundred and thirty ſeven, conform to the Submiſſion made by the Biſhops to His <hi>Majeſty</hi> in the ſaid year, and Decreet arbitral following thereupon: With power to the ſaids Commiſſioners, or <hi>quorum</hi> foreſaid, to appoint Sub-commiſſioners, conform to the former Acts and Commiſſions for valuation of Teinds, and receive re<g ref="char:EOLhyphen"/>ports from them. And with power to them, where Miniſters are not already ſufficlently provided, or have not Localities aſſigned to them for their Stipends, out of the Teinds within the Paroch where they ſerve the Cure, to modifie, ſettle and appoint con<g ref="char:EOLhyphen"/>ſtant local Stipends to ilk Miniſter, out of the Teinds of the Pa<g ref="char:EOLhyphen"/>roch where they ſerve the Cure, in ſo far as the ſame will amount to, according to the quantities of victual or money mentioned in the ſaids Acts and Commiſſions, and to decide and proportion the ſaids Localities. And with power to diſ joyn too large and ſpacious Paroches, to cauſe erect and build new Churches, to diſ<g ref="char:EOLhyphen"/>member and annex Kirks, as they ſhall think juſt; and to take order, that every Heretor and Life-renter ſhall have the leading and buying of their own Teinds, if they be willing, according to the rates preſcribed by former Commiſſions; Particularly, by the Commiſſion granted by His <hi>Majeſty,</hi> with conſent of the Eſtates of Parliament, in <hi>anno,</hi> one thouſand ſix hundred and thrity three; with power to them to determine all queſtions con<g ref="char:EOLhyphen"/>cerning the prices of Teinds, betwixt Titulars and others having right thereto, and the Heretors; and to appoint ſuch ſecurities, in favours of the Titulars and others having right to the Teind, for the prices to be granted by the Heretors, payers of the va<g ref="char:EOLhyphen"/>lued duties, or buyers of the ſaids Teinds; and in favours of the Miniſters, as to their maintenance, as the ſaids Commiſſio<g ref="char:EOLhyphen"/>ners ſhall think fitting, according to the rule ſet down in the
+<pb n="41" facs="tcp:174604:21"/>ſaids former Acts, namely in the ſaid Act, <hi>anno,</hi> one thouſand ſix hundred and thirty three. Declaring, That where the Vica<g ref="char:EOLhyphen"/>rage of any Paroch is a ſeveral Benefice and Title from the Per<g ref="char:EOLhyphen"/>ſonage, the ſame ſhall be ſeverally valued; to the effect, the Titulars or Miniſters ſerving the Cure, having right to the ſaid Vicarage, be not fruſtrat of the true worth thereof; And that Titulars, and others having right to Teinds, ſhall not be forced to diſpone any Teinds, valued or to be valued, which ſhall be aſ<g ref="char:EOLhyphen"/>ſigned, diſponed and allocat to the Miniſter ſerving the Cure of the Paroch. As alſo, with power to the ſaids Commiſſioners or <hi>quorum</hi> foreſaid, to rectifie whatſoever Valuations, led or to be led, to the enorm prejudice of the Titulars, and to the hurt and detriment of the Kirk, and prejudice of the Miniſters mainte<g ref="char:EOLhyphen"/>nance and proviſions, or of His <hi>Majeſties</hi> Annuity. Provided alwayes, likeas it is hereby expreſly provided, that where Valua<g ref="char:EOLhyphen"/>tions are lawfully led, againſt all parties having intereſt, and al<g ref="char:EOLhyphen"/>lowed by former Commiſsions, the ſame ſhall not be drawn in queſtion, nor rectified upon the pretence of enorm leſion, at the inſtance of the Miniſter (not being Titular) or at the in<g ref="char:EOLhyphen"/>ſtance of His <hi>Majeſties</hi> Advocat, in reſpect of His <hi>Majeſties</hi> An<g ref="char:EOLhyphen"/>nuity; except it be proven, that colluſion was uſed betwixt the Titulars and Heretors, or betwixt the Proctor-fiſcal and Here<g ref="char:EOLhyphen"/>tors and Titulars; which colluſion is declared to be, where the Valuations are led with the diminution of the third of the juſt Rent, which diminution ſhall be proven by the parties oaths. And albeit all the Acts of the pretended Parliaments, in the years, one thouſand ſix hundred and fourty, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred and fourty one and thereafter, are declared, by an Act of this Parliament, null and of no avail in all time coming: Yet, it is hereby Declared, That all and whatſoever Valuations, Acts, Sen<g ref="char:EOLhyphen"/>tences and Decreets, done and paſt by any Commiſſions granted by the ſaids pretended Parliaments, with all executions uſed or to be uſed thereupon, are and ſhall be as valide in all time com<g ref="char:EOLhyphen"/>ing, as if the ſaids Valuations, Acts, Sentences and Decreets, had been given and pronounced by perſons legally impowered to that effect, any thing in the foreſaid reſciſſory Act to the contrary notwithſtanding; Excepting ſuch Decreets of valuation, modi<g ref="char:EOLhyphen"/>fication of Stipends, or augmentations thereof, paſt and granted ſince the year, one thouſand ſix hundred and thirty ſeven, where<g ref="char:EOLhyphen"/>by the ſaids Archbiſhops or Biſhops are prejudged of any part of their Rents, whereof they were in poſſeſſion in the ſaid year thirty ſeven. And although, by a ſpecial Act of this preſent Parliament, the pretended Parliament, holden in <hi>anno,</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred and fourty nine, and in the beginning of the year, one thouſand ſix hundred and fifty, is, from the beginning, Declared void and null, and all that hath followed thereupon Yet nevertheleſs, His <hi>Majeſty</hi> doth, with advice foreſaid, autho
+<pb n="42" facs="tcp:174604:22"/>rize all Valuations, Acts, Decreets and Sentences, led, deduced and pronounced by the Commiſſions, one or moe, appointed by the ſaid pretended Parliament, for plantation of Kirks and va<g ref="char:EOLhyphen"/>luation of Teinds, and all execution competent thereupon; Ex<g ref="char:EOLhyphen"/>cepting ſuch Decreets and Sentences, given in favours of Mini<g ref="char:EOLhyphen"/>ſters for their Stipends, or for dividing, uniting, annexing or building of Kirks, which ſhall be found to have been unjuſtly or exorbitantly decerned: The determination whereof is hereby re<g ref="char:EOLhyphen"/>ferred by His <hi>Majeſty,</hi> with conſent foreſaid, to the ſaids Com<g ref="char:EOLhyphen"/>miſſioners, that they, after hearing of parties and conſideration of particulars, may take ſuch courſe, for altering, annulling or allowing of the ſaids Acts, Decreets and Sentences, as they ſhall think fitting, conform to the Laws, Practick and Cuſtom obſerved pre<g ref="char:EOLhyphen"/>ceeding the year, one thouſand ſix hundred and fourty nine; And Ordains Proceſſes, upon ſupplications, to be ſummarily granted, parties alwayes being cited, and that without any reduction. And it ſhall be lawfull to the ſaids Commiſſioners, or <hi>quorum</hi> foreſaid, to proceed in all Summons and Actions to be intended for that effect, within the ſpace of two years after the firſt down-ſitting of the Commiſſion. And whereas it may fall out, that ſome of the ſaids Commiſſioners may be un-able to attend the ſervice, through death, ſickneſs, or other known impediment; Therefore, His <hi>Majeſty</hi> Declares, that He ſhall be carefull to fill their places with other perſons qualified, whoſe oaths for faithfull diſcharge of the ſame ſhall be taken by the Lord Chancellor, or in his ab<g ref="char:EOLhyphen"/>ſence, by the Preſident of the ſaid Commiſſion for the time; And Ordains this preſent Commiſſion to endure ay and while the ſame, be diſcharged by His <hi>Majeſty;</hi> and the Acts, De<g ref="char:EOLhyphen"/>creets and Sentences thereof, to have the force, ſtrength and effect of a Decreet and Sentence of Parliament, and the Lords of Seſſion to grant and direct Letters of Horning, Poinding and others requiſit, in maner contained in the foreſaids Commiſſions. And conſidering, that it was the will and pleaſure of His <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Royal Father, that all Heretors, who ſhould be willing to buy, ſhould have their own Teinds at reaſonable rates; there<g ref="char:EOLhyphen"/>fore, His <hi>Majeſty,</hi> with advice foreſaid, Statutes and Ordains, That all Heretors, whoſe Teinds are not valued, (excepting as is for<g ref="char:EOLhyphen"/>merly excepted in this Commiſſion) ſhall have liberty to value and buy the ſame, at ſuch rates as is contained in the Acts of Par<g ref="char:EOLhyphen"/>liament, one thouſand ſix hundred and thirty three. With power to the ſaids Commiſſioners, to augment the ſaids rates according to the burden of augmentation, and others ſuſtained by the Ti<g ref="char:EOLhyphen"/>tulars ſince the ſaids Acts; and the ſaids Heretors to have the liberty of buying, as ſaid is, within the ſpace of three years after the valuation. With this Declaration alwayes, That in caſe the impediment, during the time foreſaid, flow from the Titular, by reaſon of his minority or other inability, in that caſe, the He
+<pb n="43" facs="tcp:174604:22"/>retor who offers himſelf ready to buy his own Teind, within the ſpace foreſaid, ſhall have place, ſo ſoon as the impediment is re<g ref="char:EOLhyphen"/>moved, to buy his Teinds, notwithſtanding of the expiring of the years and ſpace above-expreſt. And it is Declared, that if the Heretor be Minor, and his Tutors neglect the buying of his Teinds within the foreſaid ſpace, the Minor ſhall have action for two years after his minority, to compell the Titular for ſelling of his ſaids Teinds; And His <hi>Majeſty,</hi> with conſent foreſaid, here<g ref="char:EOLhyphen"/>by diſcharges all former Commiſſions, Declaring the ſame to be expired.</p>
+            </div>
+            <div n="28" type="act">
+               <head>
+                  <hi>XXVIII.</hi> ACT annent penal Statutes.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He King's moſt Excellent <hi>Majeſty,</hi> having, out of His grace and goodneſs to His Subjects, granted an full and free Act of Indempnity, Pardon and Oblivion, for all crimes and offences com<g ref="char:EOLhyphen"/>mitted by them, relating to the late troubles, and more fully expreſt in the tenth Act of the ſecond Seſſion of this Parliament. And conſidering, that beſides theſe, there be divers arbitrary and pe<g ref="char:EOLhyphen"/>cunial pains adjected to penal Statutes, which being ſtrictly ex<g ref="char:EOLhyphen"/>acted, would prove an heavy burden to the Subjects who may be lyable thereto. And His <hi>Majeſty</hi> being deſirous, now at the cloſe of this His firſt Parliament, that all His good Subjects may find the effects of His mercy, as to exceed all former preſidents, ſo to be beyond their own expectation; Hath therefore thought fit, with the advice and conſent of His Eſtates of Parliament, by theſe preſents, to Diſcharge, Pardon and Remit all contraveeners of any penal Statutes, for all deeds heretofore done by them, contrary to the tenor thereof; Excepting the Statutes concer<g ref="char:EOLhyphen"/>ning the unlawfull taking of Uſury, tranſporting of Silver and Gold, ſlaying of red and black Fiſh, and all Acts and Statutes paſt in this preſent Parliament, which are no wayes diſcharged by this preſent Act.</p>
+            </div>
+            <div n="29" type="act">
+               <pb n="44" facs="tcp:174604:23"/>
+               <head>XXIX. <hi>ACT</hi> Salvo jure cujuſlibet.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord and Eſtates of Par<g ref="char:EOLhyphen"/>liament, conſidering, that in this laſt Seſſion of this preſent Parliament, many particular Acts and Ratifications have been paſt, wherein divers Clauſes may be inſerted, prejudicial to the rights and intereſts of ſeveral per<g ref="char:EOLhyphen"/>ſons, albeit it hath alwayes been His <hi>Majeſties</hi> purpoſe and meaning, and the purpoſe and meaning of the Eſtates of Parliament, in this, as in all preceeding Parliaments, That all par<g ref="char:EOLhyphen"/>ticular Acts and Ratifications, general or ſpecial, howſoever con<g ref="char:EOLhyphen"/>ceived (where perſons concerned have not been heard for their Intereſt before the paſſing thereof) ſhould not prejudge private Rights of parties. Therefore, His <hi>Majeſty,</hi> with advice and con<g ref="char:EOLhyphen"/>ſent of the Eſtates of Parliament, Statutes and Ordains, That all particular Acts and Ratifications whatſoever, paſt in this laſt Seſſion of this preſent Parliament, ſhall be interpreted <hi>Salvo jure cujuſlibet;</hi> Excepting alwayes, an Act and Ratification paſt in this Seſſion of Parliament, in favours of the Duke and Dutcheſs of <hi>Buccleuch,</hi> of their Contract of Marriage, which is Declared by His <hi>Majeſty</hi> and Eſtates of Parliament, no wayes to be comprehended herein.</p>
+               <closer>
+                  <signed>
+                     <hi>Extracted from the Records of Parliament, by me Sir</hi> ARCHIBALD PRIMEROSH <hi>of</hi> Cheſter, <hi>Knight and Barronet, Clerk of His</hi> MAjESTIES <hi>Council, Regiſters and Rolls.</hi>
+                  </signed>
+                  <signed>
+                     <hi>A. Primerose,</hi> Cls. Reg.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table">
+            <pb facs="tcp:174604:23"/>
+            <head>ATABLE of the Printed ACTS.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> 
+                  <seg rend="decorInit">A</seg>Ct againſt ſeparation and diſobe<g ref="char:EOLhyphen"/>dience to Eccleſiaſtical Autho<g ref="char:EOLhyphen"/>rity. <hi>Page 3</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Additional Act concerning the Declaration to be ſigned by all perſons in publick Truſt. <hi>Page 6</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Act againſt Protections. <hi>Page 8</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Act for the eſtabliſhment and conſtitution of a National Synod. <hi>Page 9</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> Act anentruinous houſes in Royal Burghs. <hi>Page 10</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Act diſcharging the importation of Strong<g ref="char:EOLhyphen"/>waters, <hi>&amp;c. Page 12</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> Act diſcharging the mixing of Tin with Lead. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> Act anent the diſcharging of Advocations for ſums within two bundred merks. <hi>Page 13</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> Act in favour of Minors, anent the duties of the Lands compriſed from them. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> Act againſt exportation of money forth of the Kingdom. <hi>Page 14</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> Act for encouragement of Tillage and Paſturage. <hi>Page 17</hi>
+               </item>
+               <item>
+                  <hi>12.</hi> Act for a new Impoſition upon Engliſh Com<g ref="char:EOLhyphen"/>modities. <hi>Page 18</hi>
+               </item>
+               <item>
+                  <hi>13.</hi> Act impoſing a Cuſtom upon Corn imported from <hi>Ireland</hi> into this Kingdom. <hi>Page 19</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Act for in-bringing of His <hi>Majeſties</hi> Rents. <hi>Page 20</hi>
+               </item>
+               <pb facs="tcp:174604:24"/>
+               <item>
+                  <hi>15.</hi> Act concerning Beggars and Vagabonds. <hi>Page 23</hi>
+               </item>
+               <item>
+                  <hi>16.</hi> Act anent the meaſure of Coal. <hi>Page 26</hi>
+               </item>
+               <item>
+                  <hi>17.</hi> Act anent the Foot-meaſure. <hi>Page 27</hi>
+               </item>
+               <item>
+                  <hi>18.</hi> Act diſcharging Monday and Saturday Mer<g ref="char:EOLhyphen"/>cats in Royal Burghs. <hi>Page 28</hi>
+               </item>
+               <item>
+                  <hi>19.</hi> Act anent Lint-ſeed, Hemp-ſeed and Steel. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>20.</hi> Act anent Manſes and Glebs, and poinding for Miniſters Stipend. <hi>Page 29</hi>
+               </item>
+               <item>
+                  <hi>21.</hi> Act anent Compriſings. <hi>Page 30</hi>
+               </item>
+               <item>
+                  <hi>22.</hi> Act anent Sentences of Excommunication. <hi>Page 31</hi>
+               </item>
+               <item>
+                  <hi>23.</hi> Act for additional proviſion in favours of the <g ref="char:V">Ʋ</g>niverſities. <hi>Page 32</hi>
+               </item>
+               <item>
+                  <hi>24.</hi> Act regulating the proportions of Exciſe in the ſeveral Shires and Burghs. <hi>Page 34</hi>
+               </item>
+               <item>
+                  <hi>25.</hi> An humble Tender to His Sacred <hi>Majeſty,</hi> of the duty and loyalty of His ancient King<g ref="char:EOLhyphen"/>dom of <hi>Scotland. Page 36</hi>
+               </item>
+               <item>
+                  <hi>26.</hi> Act aſſerting His <hi>Majeſties</hi> Prerogative, in the ordering and diſpoſal of Trade with for<g ref="char:EOLhyphen"/>raigners. <hi>Page 38</hi>
+               </item>
+               <item>
+                  <hi>27.</hi> Commiſsion for plantation of Kirks and va<g ref="char:EOLhyphen"/>luation of Teinds. <hi>Page 39</hi>
+               </item>
+               <item>
+                  <hi>28.</hi> Act anent penal Statutes. <hi>Page 43</hi>
+               </item>
+               <item>
+                  <hi>29.</hi> Act <hi>Salvo jure cujuſlibet. Page 44</hi>
+               </item>
+            </list>
+         </div>
+         <div type="table">
+            <pb facs="tcp:174604:24"/>
+            <head>A Table of the ſpecial Acts and Ratifications, paſt in the ſeveral Seſsions of this Parliament, which are not printed.</head>
+            <div n="1" type="part">
+               <head>FIRST SESSION.</head>
+               <list>
+                  <item>
+                     <seg rend="decorInit">P</seg>Roteſtations by ſome Noble-men, Commiſſio<g ref="char:EOLhyphen"/>ners from Shires and Burghs, concerning their precedencies in the Rolls of Parliament.</item>
+                  <item>Act diſcharging Sir <hi>Archibald Johnſtoun</hi> of all publick Truſt.</item>
+                  <item>Act concerning the Burial of the Corps of the late Marqueſs of <hi>Montroſe</hi> and Laird of <hi>Dalgety.</hi>
+                  </item>
+                  <item>Commiſſions for the Lords of the Articles and Bills.</item>
+                  <item>Exoneration to Mr. <hi>John Young,</hi> concerning the Regiſters.</item>
+                  <item>Record of the production of the Patents granted by His <hi>Majeſty</hi> to His Officers of State, and their Admiſſions.</item>
+                  <item>Record of the production of ſome Patents of Honour.</item>
+                  <item>Decreet Earl of <hi>Dalhouſie</hi> and others, againſt Mr. <hi>Robert Hodge.</hi>
+                  </item>
+                  <item>Act in favours of the Laird of <hi>Mackclean.</hi>
+                  </item>
+                  <item>Precognition in favours of the Maſter of <hi>Bamff.</hi>
+                  </item>
+                  <item>Commiſſion to Mr. <hi>John Wilkie,</hi> to collect the vacand Stipends.</item>
+                  <item>Act reſcinding the pretended forfeiture of the Marq; of <hi>Montroſe.</hi>
+                  </item>
+                  <item>Act allowing Meſſengers to execute Summons of Treaſon.</item>
+                  <item>Exoneration in favours of the Earl of <hi>Crawfurd</hi> and <hi>Lindſay.</hi>
+                  </item>
+                  <item>Act concerning the Magiſtrates of <hi>Kirkwall.</hi>
+                  </item>
+                  <item>Act for an Impoſition at the Bridge of <hi>Muſleburgh.</hi>
+                  </item>
+                  <item>Commiſſion for viſiting the Univerſity of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Act anent the election of the Magiſtrates of <hi>Monroſs.</hi>
+                  </item>
+                  <item>Decreet <hi>Archibald Lamont</hi> contra <hi>Campbel.</hi>
+                  </item>
+                  <item>Act for an Impoſition at the Calſees of <hi>Cowie-month.</hi>
+                  </item>
+                  <item>Reference <hi>Mackenzie</hi> contra <hi>Mackpherſon.</hi>
+                  </item>
+                  <item>Decreet Earl of <hi>Perth</hi> contra Sir <hi>George Mouat.</hi>
+                  </item>
+                  <item>Acts in favours of ſome Miniſters for their Stipend.</item>
+                  <item>Act in favours of Col. <hi>Weymes,</hi> Col. <hi>Leſly</hi> and <hi>James Scot.</hi>
+                  </item>
+                  <item>Letter and Act in favours of the Laird of <hi>Renton.</hi>
+                  </item>
+                  <item>Act for a Bridge at <hi>Ramal-well-craig</hi> on <hi>Clyd.</hi>
+                  </item>
+                  <item>Act in favours of the Town of <hi>Wigtoun</hi> concerning a Bridge.</item>
+                  <item>Decreet <hi>Lockhart</hi> contra <hi>Bonar.</hi>
+                  </item>
+                  <item>Decreet <hi>Mackenzie</hi> of <hi>Redcaſtle,</hi> contra <hi>Gilbert Ker</hi> and others.</item>
+                  <item>Decreet <hi>Elizabeth Dutchy</hi> contra <hi>Henry Denniſtoun.</hi>
+                  </item>
+                  <item>Act annent the Cuſtom and Price of imported Tobacco-pipes.</item>
+                  <item>Decreet <hi>Carnaigie</hi> contra <hi>Carnaigie.</hi>
+                  </item>
+                  <pb facs="tcp:174604:25"/>
+                  <item>Ratification to the Earl <hi>Marſhall</hi> of the Sheriff-ſhip of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Proteſtation by the Earl of <hi>Roxburgh,</hi> in name of the Marqueſs of <hi>Huntly,</hi> againſt the ſame.</item>
+                  <item>Ratification in favours of Mr. <hi>Adam Cunningham</hi> of <hi>Wood-hall,</hi> of the Commiſſariot of <hi>Dumfries.</hi>
+                  </item>
+                  <item>Ratification in favours of the new Colledge of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Proteſtation by the Town of <hi>Aberdeen</hi> againſt it.</item>
+                  <item>Ratification in favours of Sir <hi>John Urqhuart</hi> of <hi>Cromarty.</hi>
+                  </item>
+                  <item>Rat. Mr. <hi>Hary Hay,</hi> of the Commiſſar-clerkſhip of <hi>Edinburgh.</hi>
+                  </item>
+                  <item>Ratification to <hi>John Ramſay</hi> of his Office from the Lord Regiſter.</item>
+                  <item>Ratification in favours of the Burgh of <hi>Elgin.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>Thomas Manſon.</hi>
+                  </item>
+                  <item>Ratification of the erection of the Kirk of <hi>Kinloſſe.</hi>
+                  </item>
+                  <item>Rat. to Mr. <hi>Tho Young.</hi> of the Commiſſar-clerkſhip of <hi>Lauder.</hi>
+                  </item>
+                  <item>Rat. of the erection of the Town of <hi>Findorn</hi> in a Burgh of Barony.</item>
+                  <item>Proteſtation Town of <hi>Forres</hi> againſt it.</item>
+                  <item>Ratification in favours of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> 
+                     <hi>Wat.</hi>
+                  </item>
+                  <item>Rat. to Mr. <hi>James Nicholſon</hi> of the Commiſſariot of <hi>Brichen.</hi>
+                  </item>
+                  <item>Ratification to <hi>John Newel.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>Hary Blaickwood.</hi>
+                  </item>
+                  <item>Ratification to <hi>Alexander Monro</hi> of the Commiſſariot of <hi>Stirling.</hi>
+                  </item>
+                  <item>Act concerning the Town of <hi>Kirkwall.</hi>
+                  </item>
+                  <item>Rat. to the Town of <hi>Edinburgh</hi> of the regality of the <hi>Cannongate.</hi>
+                  </item>
+                  <item>Rat. to the Town of <hi>Edinburgh</hi> of the mark upon the Tun.</item>
+                  <item>Rat. Town of <hi>Edinb.</hi> of the Land called <hi>The Kings work in</hi> Leith.</item>
+                  <item>Rat. Town of <hi>Edinb.</hi> of the Cuſtoms at the houſe in the <hi>Mure.</hi>
+                  </item>
+                  <item>Rat. of the Town of <hi>Edinburghs</hi> new Charter of Confirmation.</item>
+                  <item>Act in favours of Mr <hi>James Daes.</hi>
+                  </item>
+                  <item>Commiſſion for tryal of the burning the Gates of <hi>Drumlanrig.</hi>
+                  </item>
+                  <item>Act concerning the Earl of <hi>Perth</hi> and Lord <hi>Drummonds</hi> loſſes.</item>
+                  <item>Act concerning Sir <hi>Thomas Hamiltoun</hi> of <hi>Preſtoun</hi> his Writes.</item>
+                  <item>Act reſcinding the pretended forfeiture of the Marqueſs of <hi>Huntly.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of <hi>Mackdonald</hi> of <hi>Largy.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeitur of Sir <hi>John Gordoun</hi> of <hi>Haddo.</hi>
+                  </item>
+                  <item>Act for a contribution for repairing the Harbour of <hi>Peterhead.</hi>
+                  </item>
+                  <item>Act in favours of the Town of <hi>Dunce.</hi>
+                  </item>
+                  <item>Act in favours of <hi>George Campbel.</hi>
+                  </item>
+                  <item>Modifications to ſuffering Miniſters out of the vacand Stipends.</item>
+                  <item>Ratification in favours of the Eail of <hi>Mar.</hi>
+                  </item>
+                  <item>Ratification in favours of the Town of <hi>Nairn,</hi> and Proteſtation by the Laird of <hi>Caddel</hi> againſt it.</item>
+                  <item>Ratification in favours of the Earl of <hi>Panmure,</hi> and Proteſtation by the Burgh of <hi>Arbroth</hi> againſt it.</item>
+                  <item>Ratification in favours of the Burgh of <hi>Innerneſs,</hi> and Proteſta<g ref="char:EOLhyphen"/>tion for <hi>Redcaſtle Dunean,</hi> and the Burghs of <hi>Forteroſs, Cromarty</hi> and <hi>Dingwal</hi> againſt it.</item>
+                  <item>Ratification in favours of the Earl of <hi>Linlithgow.</hi>
+                  </item>
+                  <pb facs="tcp:174604:25"/>
+                  <item>Ratification to the Earl of <hi>Callander.</hi>
+                  </item>
+                  <item>Ratification to the Town of <hi>Muſleburgh.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>Robert Thomſon,</hi> and Proteſtation by the Earl of <hi>Athol</hi> againſt it.</item>
+                  <item>Ratification in favours of Mr. <hi>Thomas Murray.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>John Finlay.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Wigtoun.</hi>
+                  </item>
+                  <item>Act for a weekly Mercat and two Fairs yearly in <hi>Bouden.</hi>
+                  </item>
+                  <item>Ratification in favours of the Royal Burroughs.</item>
+                  <item>Ratification in favours of the Earl of <hi>Weymes.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Kirkcaldy.</hi>
+                  </item>
+                  <item>Commiſſions for trying ſome perſons ſuſpected of witch-craft.</item>
+                  <item>His <hi>Majeſties</hi> nomination of the Lords of Seſſ. and their Admiſſion.</item>
+                  <item>Act for the ſitting and diets of the Seſsion.</item>
+                  <item>The Lord Regiſters nomination of the Clerks to the Seſſion, to the regiſtration of Seaſings and admiſſion of Notars, and their admiſſion, conform to their Gifts from the Lord Regiſter.</item>
+                  <item>Act eſtabliſhing the Sheriffdom of <hi>Roſs</hi> and the bounds of it.</item>
+                  <item>Commiſſions for the Fiſhings on the waters of <hi>Ugie</hi> and <hi>Itham.</hi>
+                  </item>
+                  <item>Act to <hi>James Weymes</hi> for a new invention of Milnes, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Lauderdaile,</hi> anent the Lordſhip and Regality of <hi>Muſleburgh,</hi> and Superiority thereof.</item>
+                  <item>Proteſtation by the Lord <hi>Colintoun,</hi> that the ſaid Act ſhould not prejudge him of his Right to the Teind of the Paroch of <hi>Hales.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Laudeidaile.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Lauderdaile,</hi> concerning the Writes and Securities of his Lands.</item>
+                  <item>Act concerning the Earl of <hi>Caſsils.</hi>
+                  </item>
+                  <item>Act anent the Lights on the <hi>May.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of the Laird of <hi>Glengairy.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of <hi>Macklean</hi> of <hi>Lochbouy.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of <hi>Macklean</hi> of <hi>Kingerloch.</hi>
+                  </item>
+                  <item>Decreet Earl <hi>Southesk</hi> and Lord <hi>Burghly,</hi> againſt the Shire of <hi>Fife.</hi>
+                  </item>
+                  <item>Decreet Marqueſs of <hi>Montroſe</hi> againſt the Marqueſs of <hi>Argly.</hi>
+                  </item>
+                  <item>Decreet Laird of <hi>Dury,</hi> contra Duke <hi>Hamiltoun.</hi>
+                  </item>
+                  <item>Act in favours of the Burgh of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Act for two Fairs and a weekly Mercat in <hi>Strathaven.</hi>
+                  </item>
+                  <item>Act in favours of <hi>Patrick Dumbar.</hi>
+                  </item>
+                  <item>Act in favours of the Laird of <hi>Edgerſtoun.</hi>
+                  </item>
+                  <item>Act for three Fairs to the Town of <hi>Leſly.</hi>
+                  </item>
+                  <item>Act for a weekly Mercat and two Fairs in the Town of <hi>Tullith.</hi>
+                  </item>
+                  <item>Act for a yearly Fair in <hi>Aldeir.</hi>
+                  </item>
+                  <item>Decreet <hi>Pluſcarden</hi> contra <hi>Mackpherſon</hi> and others.</item>
+                  <item>Act in favours of the Clan-<hi>Gregor.</hi>
+                  </item>
+                  <item>Decreet E. <hi>Roxburgh</hi> con. E. <hi>Lothian,</hi> anent the Title of Lord <hi>Ker.</hi>
+                  </item>
+                  <item>Decreet Earl of <hi>Airly</hi> againſt <hi>Mackenzie</hi> and others.</item>
+                  <item>Act for repairing the Bridge of <hi>Sanchar.</hi>
+                  </item>
+                  <item>Act for two fairs and a weekly Mercat in <hi>Hamiltoun.</hi>
+                  </item>
+                  <pb facs="tcp:174604:26"/>
+                  <item>Act reſcinding the pretended forfeiture of <hi>David Graham</hi> of <hi>Gorthy.</hi>
+                  </item>
+                  <item>Act in favours of Doctor <hi>Gleg.</hi>
+                  </item>
+                  <item>Record of the loſſes of ſome Noble-men for their loyalty.</item>
+                  <item>Acts for ordering the precedency of the Officers of State.</item>
+                  <item>Decreet of forfeiture againſt Sir <hi>Archibald Johnſtoun.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of the Lord <hi>Heries.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Roxburgh.</hi>
+                  </item>
+                  <item>Ratification in favours of the Univerſity of St. <hi>Andrews.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Lauder.</hi>
+                  </item>
+                  <item>Ratification in favours of Major <hi>Ramſay.</hi>
+                  </item>
+                  <item>Ratification in favours of the Laird of <hi>Hayning.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>John Stirling</hi> of <hi>Orther-field.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Leiven.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>John Campbel</hi> of <hi>Ardchattan.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Linlithgow.</hi>
+                  </item>
+                  <item>Ratification in favours of the old Town of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Rat. of the mortification of a Hoſpital in the Paroch of <hi>Largo.</hi>
+                  </item>
+                  <item>Ratification in favours of the Laird of <hi>Monymusk.</hi>
+                  </item>
+                  <item>Proteſtation by the Earl of <hi>Aboyn,</hi> in name of the Marqueſs of <hi>Huntly,</hi> againſt it.</item>
+                  <item>Ratification in favours of the Burgh of <hi>Dumbartoun.</hi>
+                  </item>
+                  <item>Proteſtation of the Town of <hi>Glaſgow</hi> againſt it.</item>
+                  <item>Ratification in favours of the Town of <hi>Glaſgow.</hi>
+                  </item>
+                  <item>Proteſtation by the Dukes of <hi>Lennox</hi> and <hi>Hamiltoun,</hi> and the Burghs of <hi>Dumbartoun</hi> and <hi>Renfrew,</hi> againſt it.</item>
+                  <item>Ratification in favours of the Burgh of <hi>Forteroſe,</hi> and Proteſta<g ref="char:EOLhyphen"/>tion by the Town of <hi>Innerneſs</hi> againſt it.</item>
+                  <item>Ratification in favours of the Officers of the Mint.</item>
+                  <item>Proteſtation for the Burgh of <hi>Edinburgh</hi> againſt it.</item>
+                  <item>Act for coyning of Copper-money.</item>
+                  <item>Act for providing a Stock to the Mint-houſe.</item>
+                  <item>Decreets of forfeiture againſt <hi>William Dundaſs</hi> of <hi>Magdallans,</hi> and <hi>John Home</hi> of <hi>Kello.</hi>
+                  </item>
+                  <item>Act anent the redemption of Infeftments of Fee granted under reverſion.</item>
+                  <item>Act reſcinding the pretended forfeiture of <hi>Robert Spotſwood.</hi>
+                  </item>
+                  <item>Act reſcinding all Decreets of forfeiture againſt <hi>Archibald</hi> and <hi>Mackgileſpik Mackdonal</hi> of <hi>Colinſay.</hi>
+                  </item>
+                  <item>Act reſcinding the forfeiture of <hi>Archibald Mackdonal</hi> of <hi>Sands.</hi>
+                  </item>
+                  <item>Proteſtation by the Creditors of the Marqueſs of <hi>Argyl,</hi> that they be not prejudged by any ſentence to be given againſt him.</item>
+                  <item>Decreet and Sentence of forfeiture againſt the Marqueſs of <hi>Argyl.</hi>
+                  </item>
+                  <item>Decreet and Sentence of forfeiture againſt Mr. <hi>James Guthry.</hi>
+                  </item>
+                  <item>Decreet and Sentence of forfeiture againſt <hi>William Govan.</hi>
+                  </item>
+                  <item>Decreet L. <hi>Cochran,</hi> againſt the Executors of the Earl of <hi>Buccleuch.</hi>
+                  </item>
+                  <item>Act for Two Fairs to the Burgh of <hi>Ruthglen.</hi>
+                  </item>
+                  <item>Act for Impoſition for upholding a Bridge on the Water of <hi>Fleet.</hi>
+                  </item>
+                  <pb facs="tcp:174604:26"/>
+                  <item>Acts concerning the Town of <hi>Edinburgh</hi> and their Annuity out of the Houſe-mails, and the Impoſition granted to them of two pence upon the pint of Ale, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Decreet Duke of <hi>Hamiltoun</hi> contra <hi>Ardkinlaſs.</hi>
+                  </item>
+                  <item>Commiſſion for a Council of Trade.</item>
+                  <item>Decreet in favours of the E. of <hi>Callander</hi> againſt the E. of <hi>Leiven.</hi>
+                  </item>
+                  <item>Act for changing an High-way at <hi>Abbotſhall.</hi>
+                  </item>
+                  <item>Act in favours of <hi>William Purveſs.</hi>
+                  </item>
+                  <item>Decreet Sir <hi>William Baily</hi> of <hi>Lamintoun</hi> contra Mrs. <hi>Whaley.</hi>
+                  </item>
+                  <item>Act for the ordinar allowance of the Clerk Regiſters Subſcription.</item>
+                  <item>Ratification in favours of the Marqueſs of <hi>Montroſe.</hi>
+                  </item>
+                  <item>Act ratifying the union of the Paroches of <hi>Logy-montroſe</hi> and <hi>Perth.</hi>
+                  </item>
+                  <item>Act anent ſlaying of Fiſh in forbidden time.</item>
+                  <item>Act in favours of the Earl <hi>Caſsils,</hi> Earl <hi>Lothian, Brody,</hi> &amp;c.</item>
+                  <item>Commiſſion concerning the Annual-rents due by perſons forfeited by the Uſurpers.</item>
+                  <item>Decreet in favours <hi>Mackintoſh</hi> againſt <hi>Lochyel.</hi>
+                  </item>
+                  <item>Decreet <hi>Murdoch Mackclean</hi> againſt <hi>John Mackalleſter,</hi> &amp;c.</item>
+                  <item>Proteſtations by the Earl of <hi>Arrol,</hi> Earl <hi>Craufurd</hi> and <hi>Lindſay,</hi> the General of the Mint, and the Provoſt of <hi>Edinburgh</hi> in name of the Royal Burroughs, againſt the power of the Juſtices of Peace.</item>
+                  <item>Act in favours of the Commiſſars of <hi>Edinburgh.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Middleton</hi> and Sir <hi>John Smith.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Middleton</hi> and Sir <hi>John Weymes.</hi>
+                  </item>
+                  <item>Act for two Fairs to the Burgh of <hi>Culroſs.</hi>
+                  </item>
+                  <item>Act for raiſing a moneths maintenance, impoſed in the year, one thouſand ſix hundred and fifty one, for the Kings uſe, and eighty thouſand merks due by the Burroughs.</item>
+                  <item>Act in favours of the Earl of <hi>Dundee.</hi>
+                  </item>
+                  <item>Act in favours of the Hat-makers in <hi>Edinburgh,</hi> and Proteſta<g ref="char:EOLhyphen"/>tion by the Town of <hi>Edinburgh</hi> againſt it.</item>
+                  <item>Decreet <hi>John Mackdowgal</hi> contra <hi>Campbel.</hi>
+                  </item>
+                  <item>Decreet of forfeiture againſt <hi>John Swintoun.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture of the Earl of <hi>Branfurd.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Panmure.</hi>
+                  </item>
+                  <item>Commiſſion for the Fiſhings of <hi>North</hi> and <hi>South-esks.</hi>
+                  </item>
+                  <item>Ratification in favours of the Lord <hi>Rollo.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Murray.</hi>
+                  </item>
+                  <item>Ratification of the Rights and Liberties of the Burgh of <hi>Dundee.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Kintor.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Tweddal.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>Alexander Thomſon.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Athol.</hi>
+                  </item>
+                  <item>Ratification to Sir <hi>John Gilmor,</hi> Preſident of the Seſſion, of his Rights of the Barrony of <hi>Craigmillar.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Dunkell,</hi> and Proteſtation by the Town of <hi>Perth</hi> againſt it.</item>
+                  <pb facs="tcp:174604:27"/>
+                  <item>Two Ratifications to the Earl of <hi>Craufurd</hi> and <hi>Lindſay.</hi>
+                  </item>
+                  <item>Ratification to the Earl of <hi>Lauderdaile</hi> of the regality of <hi>Thirlſtane</hi> and Lordſhip of <hi>Muſleburgh.</hi>
+                  </item>
+                  <item>Rat. to the Earl of <hi>Lauderdaile</hi> of the gift of <hi>Swintouns</hi> forfeiture.</item>
+                  <item>Ratification in favours of Mr. <hi>James Douglaſs.</hi>
+                  </item>
+                  <item>Ratification to Sir <hi>John Gilmor</hi> of his gift of Penſion.</item>
+                  <item>Ratification to Sir <hi>James Hope</hi> of his rights to the Mines.</item>
+                  <item>Ratification in favours of the Laird of <hi>Calder.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>John Herbertſon.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Home.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>Alexander Home.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>John Cunningham.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>James Innes.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>James Cunningham.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>Robert Murray</hi> of <hi>Camron.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl <hi>Marſhal.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>SECOND SESSION.</head>
+               <list>
+                  <item>ACt for calling in the Biſhops to the Parliament.</item>
+                  <item>Act for ſetling the Orders in the Parliament-houſe.</item>
+                  <item>Act concerning Members of Parliament who do not attend.</item>
+                  <item>Recommendation for the Creditors of the late Marqueſs of <hi>Argyl.</hi>
+                  </item>
+                  <item>Commiſſion for tryal of the burning the Gates of <hi>Drumlanrig.</hi>
+                  </item>
+                  <item>Modification and Recommendations for ſome ſuffering Miniſters.</item>
+                  <item>Proclamation for the anniverſary Thankſ-giving.</item>
+                  <item>Act concerning the Earl of <hi>Mortoun</hi> and Town of <hi>Kirkwall.</hi>
+                  </item>
+                  <item>Act for yearly Fairs in <hi>Corſtorphin.</hi>
+                  </item>
+                  <item>Act in favours of Lord <hi>Fraſer,</hi> for his Title of Lord <hi>Fraſer.</hi>
+                  </item>
+                  <item>Act betwixt the Lord <hi>Burghly</hi> and Shire of <hi>Fife.</hi>
+                  </item>
+                  <item>Act in favours of <hi>Alexander Bruce,</hi> Brother to the E. of <hi>Kincarden.</hi>
+                  </item>
+                  <item>Act anent the Chapter of <hi>Argyl,</hi> and <hi>Glenorchies</hi> Proteſtation againſt it.</item>
+                  <item>Act in favours of the Inhabitants of <hi>Orknay.</hi>
+                  </item>
+                  <item>Act for relief of thoſe who were over-burdened in their Levies, in <hi>anno,</hi> 1649. for their concurrence in the Engagement, in <hi>anno,</hi> 1648.</item>
+                  <item>Act concerning the Miniſters of <hi>Edinburgh.</hi>
+                  </item>
+                  <item>Act reſcinding the pretended forfeiture againſt <hi>Harthill.</hi>
+                  </item>
+                  <item>Act in favours of the Earl of <hi>Perth</hi> and others, and ſome monies due to them by the Shire of <hi>Perth.</hi>
+                  </item>
+                  <item>Commiſſion for the Creditors of forfeited perſons.</item>
+                  <item>Act for keeping the Regiſters of Seſſion in the Parliament-houſe.</item>
+                  <item>Decreet Marqueſs of <hi>Huntly</hi> cont. <hi>Innes Cromarty, Rob. Foulis,</hi> &amp;c.</item>
+                  <pb facs="tcp:174604:27"/>
+                  <item>Decreet Laird of <hi>Haddo</hi> contra <hi>Leſly.</hi>
+                  </item>
+                  <item>Act of diſſolution of the Earldom of <hi>Orknay.</hi>
+                  </item>
+                  <item>Decreet <hi>Mackclaud</hi> contra Mr. <hi>David Drummond,</hi> &amp;c.</item>
+                  <item>Decreet Sir <hi>James Mackdonald</hi> contra <hi>Mackconochie Inera.</hi>
+                  </item>
+                  <item>Act for changing the Way betwixt the ſouth <hi>Ferry</hi> and <hi>Cramond.</hi>
+                  </item>
+                  <item>Act in favours of the Town of <hi>Edinburgh.</hi>
+                  </item>
+                  <item>Decreet againſt <hi>Archibald Campbel.</hi>
+                  </item>
+                  <item>Decreet of forfeiture againſt <hi>Ardkinlaſs</hi> and <hi>Ormſay.</hi>
+                  </item>
+                  <item>Act in favours of the Lord Lyon.</item>
+                  <item>Act for an Arch-deanry in the <hi>Iſles.</hi>
+                  </item>
+                  <item>Act in favours of Sir <hi>Robert Fletcher.</hi>
+                  </item>
+                  <item>Decreet Mrs. <hi>Whaley</hi> contra <hi>Lamintoun.</hi>
+                  </item>
+                  <item>Act for changing the Mercat-day in <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Act in favours of the Town of St. <hi>Andrews.</hi>
+                  </item>
+                  <item>Act for yearly Fairs to the Earl of <hi>Kinghorn,</hi> the Lord <hi>Tarbet,</hi> the Lairds of <hi>Glenorchie</hi> and <hi>Haddo.</hi>
+                  </item>
+                  <item>Act for two Fairs yearly, and a weekly Mercat in <hi>Dalmeny.</hi>
+                  </item>
+                  <item>Act in favours of the Earles of <hi>Queensberry</hi> and <hi>Annandail.</hi>
+                  </item>
+                  <item>Decreet in favours of Mr. <hi>Thomas Mackenzie.</hi>
+                  </item>
+                  <item>Act for building a Meal-mercat in <hi>Dumfries.</hi>
+                  </item>
+                  <item>Act concerning the Declaration.</item>
+                  <item>Act containing exceptions from the Act of Indempnity, for <hi>Fines.</hi>
+                  </item>
+                  <item>Act anent the Children and Poſterity of forfeited Perſons.</item>
+                  <item>Act in favours of the Counteſs of <hi>Branfurd</hi> and Lady <hi>Forreſter.</hi>
+                  </item>
+                  <item>Act in favours of the Lord <hi>Mackdonald.</hi>
+                  </item>
+                  <item>Act in favours of <hi>Lamont.</hi>
+                  </item>
+                  <item>Act freeing Biſhops Vaſſals from the charge of Commiſſioners to the Parliament.</item>
+                  <item>Commiſſion for rectifying the Valuations of <hi>Aberdeen</hi> Shire.</item>
+                  <item>Recommendation in favours of <hi>John Mein.</hi>
+                  </item>
+                  <item>Decreet <hi>Dunolich</hi> againſt <hi>Campbel.</hi>
+                  </item>
+                  <item>Suſpenſion of publick Debts, with References in favours of the Lord <hi>Burghly</hi> and Lord <hi>Carden.</hi>
+                  </item>
+                  <item>Ratification in favours of the Archbiſhop of St. <hi>Andrews.</hi>
+                  </item>
+                  <item>Ratification in favours of the Biſhop of <hi>Edinburgh.</hi>
+                  </item>
+                  <item>Ratification in favours of the Biſhop of <hi>Galloway.</hi>
+                  </item>
+                  <item>Ratification in favours of the Biſhop of <hi>Brichen.</hi>
+                  </item>
+                  <item>Ratification in favours of the Biſhop of <hi>Argyl.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Craufurd</hi> and <hi>Lindſay.</hi>
+                  </item>
+                  <item>Two Ratifications in favours of the Duke of <hi>Lenox.</hi>
+                  </item>
+                  <item>Two Ratifications in favours of the Earl of <hi>Athol.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Tullibarden.</hi>
+                  </item>
+                  <item>Ratification to Sir <hi>John Gilmor</hi> of his Lands of <hi>Craiglockhart.</hi>
+                  </item>
+                  <item>Ratification to the Laird of <hi>Morphie.</hi>
+                  </item>
+                  <item>Ratification to the Laird of <hi>Allardice.</hi>
+                  </item>
+                  <pb facs="tcp:174604:28"/>
+                  <item>Ratification to the Laird of <hi>Glenorchie.</hi>
+                  </item>
+                  <item>Two Ratifications to the Laird of <hi>Cromarty.</hi>
+                  </item>
+                  <item>Ratification to <hi>John Beaton.</hi>
+                  </item>
+                  <item>Ratification to the Burgh of <hi>Linlithgow.</hi>
+                  </item>
+                  <item>Ratification to Sir <hi>John Strachan.</hi>
+                  </item>
+                  <item>Ratification to <hi>Paul Symer.</hi>
+                  </item>
+                  <item>Ratification to the Earl of <hi>Annandail.</hi>
+                  </item>
+                  <item>Ratification to the Earl of <hi>Newburgh.</hi>
+                  </item>
+                  <item>Ratification to Sir <hi>Robert Innes</hi> of <hi>Muretoun.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="3" type="part">
+               <head>THIRD SESSION.</head>
+               <list>
+                  <item>ACt concerning the conſtitution and election of the Lords of the Articles.</item>
+                  <item>Warrands for perſonal Protections againſt Captions, for ſome time, to the Lord <hi>Sinclar</hi> and others.</item>
+                  <item>Commiſſion for trying of the contrivance and carrying on of the Act of Billeting.</item>
+                  <item>Decreet and Sentence of forfeiture againſt <hi>Archibald Johnſtoun,</hi> ſome time of <hi>Wariſtoun.</hi>
+                  </item>
+                  <item>Act ratifying the Remiſſion granted to <hi>George Campbel.</hi>
+                  </item>
+                  <item>Act for annexing ſome Kirks to the Deanry of St. <hi>Andrews.</hi>
+                  </item>
+                  <item>Record of the production of the Duke of <hi>Monmouth</hi>'s Patent to be Duke of <hi>Buccleuch.</hi>
+                  </item>
+                  <item>Act allowing to the Miniſters who ſerved before and in the year, one thouſand ſix hundred and ſixty two, the half of the Stipend due for that year.</item>
+                  <item>Ratification in favours of Sir <hi>Peter Wedderburn.</hi>
+                  </item>
+                  <item>Act reſcinding a former Act paſt in the laſt Seſſion of Parliament, annent ſome Fees acclaimed as due to the Lyons Office.</item>
+                  <item>Act concerning the matter of Billeting, and a Letter directed to His <hi>Majeſty</hi> thereupon.</item>
+                  <item>Act for repairing the High-wayes at the Town of <hi>Preſtoun.</hi>
+                  </item>
+                  <item>Warrand for three Fairs to the Town of <hi>Newburgh.</hi>
+                  </item>
+                  <item>Act concerning the pardoning and reſtoring the Children of for<g ref="char:EOLhyphen"/>feited perſons.</item>
+                  <item>
+                     <hi>Angus</hi> and <hi>Donald Mackclauds</hi> declared Fugitives.</item>
+                  <item>An Impoſition for repairing and upholding a Bridge in <hi>Clidſdail.</hi>
+                  </item>
+                  <item>Warrand for changing the Fair-day of the Town of <hi>Clackmannan.</hi>
+                  </item>
+                  <item>Reference to His <hi>Majeſty</hi> concerning the Proceſs againſt <hi>Aſsint.</hi>
+                  </item>
+                  <item>Act concerning the Impoſition laid on Engliſh Commodities.</item>
+                  <item>Act paſt in favours of <hi>Printers, Stationers, Silk weavers,</hi> &amp;c.</item>
+                  <item>Act for changing of the name of <hi>Souter,</hi> of late uſed by ſome of name of <hi>Johnſtoun.</hi>
+                  </item>
+                  <item>Act for an Impoſition for repairing the High-way betwixt <hi>Cor<g ref="char:EOLhyphen"/>ſtorphin</hi> and the <hi>Cow-bridge.</hi>
+                  </item>
+                  <pb facs="tcp:174604:28"/>
+                  <item>Warrand for changing the Fair-day of the Town of <hi>Nairn.</hi>
+                  </item>
+                  <item>Commiſſion concerning the Annual-rents due by perſons for<g ref="char:EOLhyphen"/>feited by the Uſurpers.</item>
+                  <item>Act Reſcinding, Annulling, and for Razing out of the Records, two Acts paſt in the ſecond Seſſion of this Parliament; one for excepting perſons from publick Truſt, and the other for the manner of voting it by Billets.</item>
+                  <item>Act in favours of Doctor <hi>Colvil.</hi>
+                  </item>
+                  <item>Act concerning the riding of the Parliament, and the Penalties of ſuch as ſhall be abſent from it.</item>
+                  <item>Decreet betwixt Sir <hi>Arthur Forbeſs</hi> and the Lord <hi>Cochran.</hi>
+                  </item>
+                  <item>Act in favours of Mr. <hi>John Wilkie.</hi>
+                  </item>
+                  <item>Act anent the vacand Stipends in <hi>Argyl</hi> and <hi>Iſles.</hi>
+                  </item>
+                  <item>Act for repairing the Bridge of <hi>Tullibody.</hi>
+                  </item>
+                  <item>Act for the diſpoſal of ſome vacand Stipends.</item>
+                  <item>Act for the Bridge of <hi>Dalkeith.</hi>
+                  </item>
+                  <item>Act for upholding the Bridge of <hi>Kippon,</hi> and for two Fairs at the Kirk of <hi>Kippon.</hi>
+                  </item>
+                  <item>Act for changing the weekly Mercat of <hi>Pettenweym.</hi>
+                  </item>
+                  <item>Act in favours of <hi>John Halybrunton,</hi> concerning his Writes.</item>
+                  <item>Act appointing the Fines to be paid in to any perſon His <hi>Majeſty</hi> ſhall appoint.</item>
+                  <item>Act in favours of the Captain of <hi>Dunſtaffnage</hi> and others.</item>
+                  <item>Two Fairs yearly to be kept in the Barony of <hi>Preſton.</hi>
+                  </item>
+                  <item>The Fairs ganted to the Town of <hi>Whitehorn</hi> changed in the dayes and dyets thereof.</item>
+                  <item>Decreet the Earl of <hi>Roxburgb</hi> contra Sir <hi>John Weymes.</hi>
+                  </item>
+                  <item>Act for two Fairs and a weekly Mercat in <hi>Stanehyve.</hi>
+                  </item>
+                  <item>Act concerning the making of Cairds.</item>
+                  <item>Recommendation in favours of the Marqueſs of <hi>Montroſe.</hi>
+                  </item>
+                  <item>Warrand for two Fairs and weekly Mercat to the Laird of <hi>Drum.</hi>
+                  </item>
+                  <item>Warrand for paying of ſome debt due by the Shire of <hi>Dumfries.</hi>
+                  </item>
+                  <item>An Act and Ratification of the Contract of Marriage betwixt the Duke and Dutcheſs of <hi>Buccleuch,</hi> and Warrand for regiſtrating the Contract.</item>
+                  <item>Act concerning the Stipend of the Miniſters of the <hi>Cannongate.</hi>
+                  </item>
+                  <item>Remit the Duke of <hi>Hamiltoun</hi> contra Lady <hi>Forreſter.</hi>
+                  </item>
+                  <item>Warrand for two Fairs, and for changing the Mercat-day of the Barony of <hi>Skirling.</hi>
+                  </item>
+                  <item>Warrand for a yearly Fair on the Brae of <hi>Athol.</hi>
+                  </item>
+                  <item>Act for a Fair and weekly Mercat on the Lands of <hi>Kinudy.</hi>
+                  </item>
+                  <item>Act concerning <hi>Broomhalls</hi> Writes.</item>
+                  <item>Act for an Impoſition, for repairing and keeping up the Bridges of <hi>Sauchtonhall</hi> and <hi>Clegorn.</hi>
+                  </item>
+                  <item>Remit to the Seſſion concerning the eighty thouſand merks claimed from the Burroughs.</item>
+                  <item>
+                     <hi>Lamonts</hi> Proceſs againſt <hi>George Campbel</hi> remitted to the Seſſion.</item>
+                  <item>Recommendation in favours of ſome ſuffering perſons.</item>
+                  <pb facs="tcp:174604:29"/>
+                  <item>Commiſſion for ordering the prices of Offices, Writes and Seals.</item>
+                  <item>Act ſuſpending execution for publick Debts untill the next Par<g ref="char:EOLhyphen"/>liament.</item>
+                  <item>Act concerning the <hi>Zetland</hi> Company of White-fiſhing, re<g ref="char:EOLhyphen"/>mitted to the Council.</item>
+                  <item>Act for a yearly Fair in <hi>Paiſla.</hi>
+                  </item>
+                  <item>Act for a yearly Fair in the Barony of <hi>Caskibon.</hi>
+                  </item>
+                  <item>Remit to the Council anent the Act for Trade.</item>
+                  <item>Warrand for changing a Way near <hi>Ledintoun.</hi>
+                  </item>
+                  <item>Act for renewing the Juſtices of Peace.</item>
+                  <item>Ratification in favours of Sir <hi>Andrew Aiton.</hi>
+                  </item>
+                  <item>Ratification in favours of the Lords of the Seſſion.</item>
+                  <item>Ratification in favours of <hi>David Souter.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>Alexander Foulis</hi> of <hi>Ratho.</hi>
+                  </item>
+                  <item>Ratification in favours of the Biſhop of <hi>Aberdeen.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>Robert Sinclar</hi> of <hi>Steinſtoun.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>Robert Sinclar</hi> of <hi>Longformacur.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>Thomas Hamiltoun</hi> of <hi>Bathgate.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>William Preſtoun</hi> of <hi>Valifield.</hi>
+                  </item>
+                  <item>Ratification in favours of Mr. <hi>Robert Preſtoun</hi> of that ilk.</item>
+                  <item>Ratification in favours of <hi>Michael Balfour</hi> of <hi>Pitmedden.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>James Campbel</hi> and his Son.</item>
+                  <item>Ratification in favours of <hi>John Malcolm.</hi>
+                  </item>
+                  <item>Ratification of a mortification in <hi>Perth.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>George Home</hi> of <hi>Kames.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earls of <hi>Craufurd</hi> and <hi>Lauderdaile,</hi> the Lord <hi>Parbroth,</hi> the Lairds of <hi>Hatton</hi> and <hi>Ardroſs,</hi> Colonel <hi>Leſly</hi> and <hi>James Scot,</hi> of their Gifts of Mines and Minerals.</item>
+                  <item>Ratification in favours of <hi>James Dickson.</hi>
+                  </item>
+                  <item>Ratification in favours of the Burgh of <hi>Whitehorn.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>John</hi> and Mr. <hi>Alexander Gibſon.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Rothes.</hi>
+                  </item>
+                  <item>Ratification in favours of the Earl of <hi>Dumfermline.</hi>
+                  </item>
+                  <item>Ratification in favours of Sir <hi>John Home</hi> of <hi>Rentoun,</hi> Lord Juſtice Clerk, and Proteſtation for Sir <hi>Alexander Home</hi> and <hi>Wedder<g ref="char:EOLhyphen"/>burne</hi> againſt it.</item>
+                  <item>Ratification in favours of <hi>Charles Maitland</hi> of <hi>Haltoun.</hi>
+                  </item>
+                  <item>Ratification in favours of <hi>William Scot</hi> of <hi>Ardroſs.</hi>
+                  </item>
+                  <item>Rat. to the Town of <hi>Edinburgh</hi> of their right to the Citadel.</item>
+                  <item>Ratification in favours of Captain <hi>Lockhart.</hi>
+                  </item>
+               </list>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
